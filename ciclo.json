@@ -1,0 +1,1595 @@
+{
+  "name": "Ciclo Aduni",
+  "courses": [
+    {
+      "name": "Algebra",
+      "classes": [
+        {
+          "title": "SEMANA 18: PROGRAMACIÓN LINEAL",
+          "description": "Gráfica de sistema de inecuaciones lineales\nModelos matemáticos relacionados a la programación lineal (problemas DECO)\n",
+          "drive": "https://drive.google.com/file/d/1I8Oz9OruMRCs554T3G4oSSYVq7X_Km0u/preview"
+        },
+        {
+          "title": "SEMANA 17: FUNCIONES EXPONENCIALES Y LOGARÍTMICAS",
+          "description": "Modelos matemáticos relacionados a las expresiones logarítmicas  (problemas DECO). \nModelos matemáticos relacionados a las expresiones exponenciales (problemas DECO).\n",
+          "drive": "https://drive.google.com/file/d/1Yit0zFxjKIGxa1MigJCr91p51OpJtiiz/preview"
+        },
+        {
+          "title": "SEMANA 16: FUNCIONES REALES II",
+          "description": "Gráfica de funciones lineales. (problemas DECO).\nGráfica de funciones cuadráticas (problemas DECO).\nGráfica de funciones con valor absoluto (problemas DECO).\n",
+          "drive": "https://drive.google.com/file/d/1-mB5s4xSmESXATeXvsXSYlPnLegGvN2I/preview"
+        },
+        {
+          "title": "SEMANA 15: FUNCIONES REALES I",
+          "description": "Cálculo del dominio de una función irracional .\nCálculo del rango de una función cuadrática.\nModelamiento matemático con las siguientes funciones (problemas DECO).\n- Función lineal\n- Función cuadrática\n- Función valor absoluto\n",
+          "drive": "https://drive.google.com/file/d/1YnM3o3Ji--XoJjHkiBlKbYoOM3TxJssm/preview"
+        },
+        {
+          "title": "SEMANA 14: EXPRESIONES NO POLINOMIALES",
+          "description": "Ecuaciones con valor absoluto. \nInecuaciones con valor absoluto.\n",
+          "drive": "https://drive.google.com/file/d/1PJhFbz27SSGk3AimbkmP3hqupJg2zr3T/preview"
+        },
+        {
+          "title": "SEMANA 13: INECUACIONES II",
+          "description": "Inecuación cuadrática (problemas DECO).\n- Método de los puntos críticos. \n- Trinomio positivo.\nInecuación polinomial de grado superior (puntos críticos y\nexpresiones que son positivas que se cancelen).\nInecuación fraccionaria (problemas DECO).\n",
+          "drive": "https://drive.google.com/file/d/1LzmJ60i75qeaFTKfHFzyr5DuDMbxVCKQ/preview"
+        },
+        {
+          "title": "SEMANA 12: PROGRAMACIÓN LINEAL",
+          "description": "Resolución de un problema de PL (evaluando en los vértices).\nProblemas DECO (relacionados a los problemas de PL).",
+          "drive": "https://drive.google.com/file/d/1uz2syRPQV-CDWeoi6rPeViFzwyyGGSX-/preview"
+        },
+        {
+          "title": "SEMANA 11: SISTEMAS DE INECUACIONES LINEALES",
+          "description": "Resolución de sistemas lineales en Z (por acotamiento).\nGráfica de relaciones lineales.\nProblemas DECO (relacionados a los sistemas lineales y relaciones lineales).",
+          "drive": "https://drive.google.com/file/d/1ZHWEgfItWdQf9wiVI8h9b6rSYS-92LyM/preview"
+        },
+        {
+          "title": "SEMANA 10:  FUNCIÓN EXPONENCIAL",
+          "description": "Ecuaciones e inecuaciones con expresiones exponenciales.\nCálculo del dominio y rango de una función logarítmica.\nProblemas DECO (relacionados a los modelos matemáticos de funciones exponenciales).\n\n",
+          "drive": "https://drive.google.com/file/d/1UhlQv5_PIsIQ0qjLalyQV1At3Mb7i-Rd/preview"
+        },
+        {
+          "title": "SEMANA 9: FUNCIÓN LOGARITMO",
+          "description": "Ecuación e inecuación logarítmica.\nCálculo del dominio y rango de una función logarítmica.\nProblemas DECO (relacionados a los modelos matemáticos de logaritmo).",
+          "drive": "https://drive.google.com/file/d/1yT37ntuY7lJ2JDNXILclhszeJCVUbdcS/preview"
+        },
+        {
+          "title": "SEMANA 8:  GRÁFICA DE FUNCIONES II",
+          "description": "Grafica de la función cuadrática. \nProblemas DECO (relacionados a las gráficas de funciones cuadráticas).",
+          "drive": "https://drive.google.com/file/d/1ZRIW5w3E6kptbDT8ccAnkUJXV-INaNir/preview"
+        },
+        {
+          "title": "SEMANA 7:  GRÁFICAS DE FUNCIONES I",
+          "description": "Gráfica de función constante, lineal y valor absoluto.\nProblemas DECO (relacionados a las gráficas de funciones lineales y valor absoluto).",
+          "drive": "https://drive.google.com/file/d/15K1s1fLGzfw21N7qy9lgrszjjpkO-ofA/preview"
+        },
+        {
+          "title": "SEMANA 6: FUNCIONES ",
+          "description": "Cálculo del dominio y rango.\nProblemas DECO (relacionados a los modelos matemáticos empleando funciones).\n\n",
+          "drive": "https://drive.google.com/file/d/1r3Nl5Cqa61zECxajzF-9E_hPatWUWGE4/preview"
+        },
+        {
+          "title": "SEMANA 5: VALOR ABSOLUTO",
+          "description": "Propiedades del valor absoluto.\nEcuaciones e inecuaciones con valor absoluto.\nProblemas DECO (relacionados a las expresiones con valor absoluto).",
+          "drive": "https://drive.google.com/file/d/1VVDD0o589UZL7jaVmunNO5YM0SXgyZyu/preview"
+        },
+        {
+          "title": "SEMANA 4: INECUACIÓN CUADRÁTICA ",
+          "description": "Resolución por el criterio de los puntos críticos y el caso de un trinomio cuadrado perfecto.\nTeorema del trinomio positivo.\nProblemas DECO (relacionados a las inecuaciones cuadráticas).",
+          "drive": "https://drive.google.com/file/d/1wXF9M1ha2rnK0BSCJToCD3oFmHENt3P2/preview"
+        },
+        {
+          "title": "SEMANA 3: DESIGUALDADES",
+          "description": "Teoremas de desigualdades (para utilizar en determinar rango de funciones).\nInecuación lineal.\nProblemas DECO (relacionados a variación e inecuación lineal).\n\n",
+          "drive": "https://drive.google.com/file/d/1E53wvfVPChk-IP2Dk89mcWTMCl1Rc7AT/preview"
+        },
+        {
+          "title": "SEMANA 2:  SISTEMA DE ECUACIONES LINEALES ",
+          "description": "Resolución de los sistemas lineales de orden 2x2 (por cancelación)\nResolución de un sistema de ecuaciones lineales de orden 3x3 (por cancelación)\nProblemas DECO (relacionados a los sistemas lineales)",
+          "drive": "https://drive.google.com/file/d/1n5bWgGL73V_Bq_TxTL6VpWtm0TpMb0DM/preview"
+        },
+        {
+          "title": "SEMANA 1: ECUACIÓN CUADRÁTICA",
+          "description": "Resolución, propiedades y reconstrucción de una cuadrática.\nProblemas DECO (relacionado a las ecuaciones cuadráticas)",
+          "drive": "https://drive.google.com/file/d/1mrcnjHtXqKZ6pnPYdVFfj55sgxLAT9ww/preview"
+        }
+      ]
+    },
+    {
+      "name": "Aritmética",
+      "classes": [
+        {
+          "title": "SEMANA 18: ANÁLISIS COMBINATORIO Y PROBABILIDAD ",
+          "description": "Permutación: lineal y circular \nCombinación \nDefinición clásica de la probabilidad \nProbabilidad condicional (Forma práctica)\n",
+          "drive": "https://drive.google.com/file/d/11WuRJ7MQqOr6v3lBr4WRt_HTyxY9WKba/preview"
+        },
+        {
+          "title": "SEMANA 17: MCD, MCM Y NÚMEROS RACIONALES ",
+          "description": "Problemas contextualizados para calcular el MCD y el MCM.\nPropiedades para dos números: A=d×p ; B=d×q  (p y q PESI).\nFracción equivalente \nNúmeros decimales (exactos e inexactos)\nConteo de cifras de la parte decimal.\n",
+          "drive": "https://drive.google.com/file/d/1R8pCP89dANEnyy6w2Zo43ni2AVP_qrBx/preview"
+        },
+        {
+          "title": "SEMANA 16: TEORÍA DE DIVISIBILIDAD Y CLASIFICACIÓN DE LOS NÚMEROS ENTEROS POSITIVOS ",
+          "description": "Propiedades de divisibilidad (Cuando un número se expresa en función a varios módulos y el principio de Arquímedes) \nCriterios de divisibilidad (los más frecuentes) .\nEstudio de los divisores de un número entero positivo (CDN y SDN ) \n",
+          "drive": "https://drive.google.com/file/d/1fyh6vI77Jikz9gp4lDHRrDSySkLNuuRX/preview"
+        },
+        {
+          "title": "SEMANA 15: PROGRESIÓN ARITMÉTICA Y CUATRO OPERACIONES EN EL Z",
+          "description": "Suma de términos de una sucesión lineal \nDeterminar un término de una sucesión cuadrática \nAdición en base 10  \nMultiplicación en base 10 \nDivisión entera. Propiedades.\n",
+          "drive": "https://drive.google.com/file/d/1m6imtx-XDxiBblr9iD2ziI13XhdrCh4t/preview"
+        },
+        {
+          "title": "SEMANA 14: REGLA DEL TANTO POR CIENTO Y REGLA DE MEZCLA ",
+          "description": "Cálculo de tanto por ciento \nAumentos y Descuentos sucesivos \nAplicaciones comerciales (Sin precio fijado)\nPrecio medio \nMezcla alcohólica \n",
+          "drive": "https://drive.google.com/file/d/1_RzzXkeoA5Xh8mOGvy263n_rbpTRpULk/preview"
+        },
+        {
+          "title": "SEMANA 13: PROMEDIOS Y MEDIDAS DE TENDENCIA CENTRAL",
+          "description": "Promedio Aritmético, promedio geométrico y promedio armónico\nVariación de la media aritmética\nProblemas contextualizados sobre las medidas de tendencia central para datos no clasificados  (media, mediana y moda)  \n",
+          "drive": "https://drive.google.com/file/d/11yZ_ezgNbdz9_ECXZegh_6OaVgIzvFAZ/preview"
+        },
+        {
+          "title": "SEMANA 12: PROBABILIDADES",
+          "description": "Experimento aleatorio, espacio muestral, eventos y propiedades.\nDefinición clásica de probabilidad.\nProbabilidad Condicional (forma práctica).\nProbabilidad para eventos independientes.\nProbabilidad para eventos dependientes.",
+          "drive": "https://drive.google.com/file/d/1xL00fk4gPTvUYlYyR-RzPThMwKfQcLBZ/preview"
+        },
+        {
+          "title": "SEMANA 11: ANÁLISIS COMBINATORIO",
+          "description": "Principios fundamentales (Adición y Multiplicación).\nPermutación lineal con elementos diferentes.\nPermutación circular con elementos diferentes.\nCombinaciones con elementos diferentes.",
+          "drive": "https://drive.google.com/file/d/1R-hhSdq992-XXUGj8pA6cYhXnryhJJz8/preview"
+        },
+        {
+          "title": "SEMANA 10: NÚMEROS DECIMALES",
+          "description": "Número decimal exacto y fracción generatriz.\nProblema con cálculo de cifras decimales.\nFracción generatriz de un número decimal inexacto periódico puro.\nProblema con cálculo de cifras decimales periódicas.\nFracción generatriz de un número decimal inexacto periódico mixto.\nCálculo de la cantidad de cifras decimales periódicas y no periódicas de un decimal inexacto periódico mixto\n",
+          "drive": "https://drive.google.com/file/d/1Nfgs8GbtR41z-XAlbT8k7nFCfkXSFHtB/preview"
+        },
+        {
+          "title": "SEMANA 9: FRACCIONES",
+          "description": "Fracciones (problema contextualizado).\nClasificación de fracciones.\nFracción equivalente.\nPropiedades de las fracciones:  Suma de dos fracciones irreductibles igual a un entero\nPropiedades de las fracciones: MCD y MCM de dos o más fracciones irreductibles",
+          "drive": "https://drive.google.com/file/d/1yrQeFn3pEnxALnaxsfbTij0DTIB-rE1S/preview"
+        },
+        {
+          "title": "SEMANA 8: MCD y MCM",
+          "description": "Definición del MCD en un problema contextualizado.\nDefinición del MCM en un problema contextualizado.\nCálculo del MCD y MCM aplicando la descomposición simultánea.\nCálculo del MCD aplicando el método de las divisiones sucesivas.\nPropiedad para 2 números (igualdad entre el producto de dos números y el producto de su MCD y MCM).\nPropiedad para 2 o más números (MCD y MCM multiplicado o dividido por un mismo entero positivo).\n",
+          "drive": "https://drive.google.com/file/d/19RGvJTP-r7IfEz2SZmEo_1toaO9eLGiO/preview"
+        },
+        {
+          "title": "SEMANA 7: NÚMEROS SIMPLES Y COMPUESTOS",
+          "description": "Números: simples, primos y compuestos.\nNúmeros primos relativos (PESI).\nTeorema fundamental de la Aritmética.\nEstudio de divisores: cantidad de divisores múltiplos de cierto número.\nEstudio de divisores: cantidad de divisores propios.\nEstudio de divisores: suma de divisores múltiplos de un número.",
+          "drive": "https://drive.google.com/file/d/1EEhSCjxneDOwO3sX2ZuUE0MjIzz7Yq5i/preview"
+        },
+        {
+          "title": "SEMANA 6: TEORÍA DE DIVISIBILIDAD",
+          "description": "-Cantidad de números múltiplos y no múltiplos de un módulo. \n-Principio de divisibilidad (operaciones de adición, resta y\nmultiplicación de números expresados con un mismo módulo)\n(no se desarrolla divisibilidad aplicada al binomio de Newton).\n-Principio de divisibilidad (cuando un número está expresado\nen función a varios módulos).\n-Principio de Arquímedes (caso general).\n-Criterios de divisibilidad: 2; 4; 8; 5 y 25.\n-Criterios de divisibilidad: 3; 9; 7 y 11.\n\n",
+          "drive": "https://drive.google.com/file/d/1O60nJEoSTzt9RGNrH-K0qrTomqFX3OXy/preview"
+        },
+        {
+          "title": "SEMANA 5: NUMERACIÓN",
+          "description": "Determinación de la cantidad de numerales que se encuentran\nrepresentados de manera literal (en base 10 y otras bases).\nDescomposición polinómica de los numerales (cifra por cifra ).\nCambios de Base:\nDe base diferente de 10 a otra base diferente de 10 (problema de igualdad de numerales sin ecuación diofántica)\nCambio de base: \nDe base diferente de 10 a otra base diferente de 10 (problema de igualdad de numerales con ecuación diofántica)\nProgresión Aritmética (término general, número de términos y\nsuma de términos) y propiedades.",
+          "drive": "https://drive.google.com/file/d/1Pr_6QAS8SmnGxzfMjnDZM_jhtQ9IzHzd/preview"
+        },
+        {
+          "title": "SEMANA 4: CONJUNTOS",
+          "description": "Relación de pertenencia e Inclusión (subconjunto) \nDeterminación de un conjunto\nConjunto vacío, Conjunto Unitario, conjuntos iguales.\nConjunto potencia.\nOperaciones entre conjuntos.\nSimplificar expresiones conjuntistas sin usar leyes del álgebra de conjuntos.",
+          "drive": "https://drive.google.com/file/d/1Q7aJb2-UP_4NzRLnnMWS0ha9AoJurrmR/preview"
+        },
+        {
+          "title": "SEMANA 3:  REGLA DE MEZCLA Y PROMEDIOS",
+          "description": "Precio medio.\nGrado medio.\nLey media.\nMedia para datos no agrupados.\nMediana para datos no agrupados.\nModa para datos no agrupados.",
+          "drive": "https://drive.google.com/file/d/1Gp2tZ4zKd1oqUs9tvtsQKlmsTVT88kIo/preview"
+        },
+        {
+          "title": "SEMANA 2: EL TANTO POR CIENTO",
+          "description": "Problemas de qué tanto por ciento representa una cantidad respecto de otra.\nVariación porcentual.\nDescuentos y aumentos sucesivos.",
+          "drive": "https://drive.google.com/file/d/1D_tyohSUihyH6CarHiU5Shal2GBLR5nN/preview"
+        },
+        {
+          "title": "SEMANA 1:  PROPORCIONALIDAD Y MAGNITUDES PROPORCIONALES",
+          "description": "-Razón geométrica (Problema de homogenización de 2 relaciones).\n-Proporción continua.\n-S.R.G.E.\n-Magnitudes DP e IP.\n-Aplicación a problemas de reparto.\n-Aplicación a problemas de Obra.\n",
+          "drive": "https://drive.google.com/file/d/1UzrU9IZWI9IZoTXkjdgyC0i2YH1ylGQY/preview"
+        }
+      ]
+    },
+    {
+      "name": "Geometría",
+      "classes": [
+        {
+          "title": "SEMANA 17: SÓLIDOS II",
+          "description": "Pirámide regular, tetraedro regular y octaedro regular, tronco de pirámide cuadrangular.\nCono de revolución, tronco de cono (área y volumen)\nEsfera y superficie esférica (casquete y zona)\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 16: SOLIDOS I",
+          "description": "Prisma regular, paralelepido y hexaedro regular (cubo)\nCilindro de revolución, tronco de cilindro (área y volumen)\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 15: ÁREA DE REGIONES",
+          "description": "Área de regiones triangulares\nÁrea de regiones cuadrangulares\nÁrea de regiones circulares\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 14: RELACIONES MÉTRICAS",
+          "description": "Relaciones métricas en la circunferencia\nRelaciones métricas en el triángulo rectángulo\nRelaciones métricas en el triángulo oblicuángulo (cálculo de la mediana, bisectriz y altura)\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 12: GEOMETRÍA ANALÍTICA I",
+          "description": "Coordenadas de un punto.\nPendiente de la recta.\nEcuación de la recta.",
+          "drive": "https://drive.google.com/file/d/1dR-Mv1ZwcR1Y6GHoLxwfP4b4zei24aIy/preview"
+        },
+        {
+          "title": "SEMANA 11: POLIEDROS REGULARES Y ESFERA",
+          "description": "Hexaedro regular, tetraedro regular y octaedro regular.\nEsfera y partes notables.\nSólidos inscritos en la esfera.",
+          "drive": "https://drive.google.com/file/d/10mj6raP5TQpTo169IGN3OJHIBoB6snkV/preview"
+        },
+        {
+          "title": "SEMANA 10: PIRÁMIDE Y CONO",
+          "description": "Pirámide.\nCono de revolución.\nSemejanza de conos y pirámides.\nTronco de cono.",
+          "drive": "https://drive.google.com/file/d/1WO2E6eczrFOE_4T95Sn1qEObfiO8JelE/preview"
+        },
+        {
+          "title": "SEMANA 9: PRISMA Y CILINDRO",
+          "description": "Prisma regular y paralelepípedo.\nCilindro de revolución.\nTroncos de prisma y cilindro.",
+          "drive": "https://drive.google.com/file/d/1OV60JfWmuUL0VQ5cDshL0Tiddn9NNBEs/preview"
+        },
+        {
+          "title": "SEMANA 8:  ÁREAS DE REGIONES CUADRANGULARES Y CIRCULARES",
+          "description": "Regiones cuadrangulares.\nRegiones circulares.",
+          "drive": "https://drive.google.com/file/d/1Stwbqdlgt0FZ7eWy_-qtZohTsfRMNQxB/preview"
+        },
+        {
+          "title": "SEMANA 7: ÁREAS DE REGIONES TRIANGULARES",
+          "description": "Formula básica y trigonométrica y Herón.\nRelación de áreas.\nSemejanza de regiones.\n",
+          "drive": "https://drive.google.com/file/d/1ftHoKDDyv3iHgU2UKY-Aaxr303pSO2hz/preview"
+        },
+        {
+          "title": "SEMANA 6: RELACIONES MÉTRICAS ",
+          "description": "Teorema de las cuerdas, teorema de la tangente y secantes.\nTeorema del cateto al cuadrado, teorema de la altura al cuadrado y teorema de producto de catetos.\nTeorema de proyecciones, cálculo de la mediana, cálculo de la bisectriz interior y cálculo de la altura.",
+          "drive": "https://drive.google.com/file/d/1n-FL8PFVa0tiN0bE9_2bCSLRkLxtTMXy/preview"
+        },
+        {
+          "title": "SEMANA 5:  PROPORCIONALIDAD Y SEMEJANZA ",
+          "description": "Teorema de Thales y corolarios\nTeorema de la bisectriz interior\nSemejanza caso (A-A)\nTeoremas adicionales",
+          "drive": "https://drive.google.com/file/d/1BqaebayIQ46LBrOTME9N7oZbZlg5oxuk/preview"
+        },
+        {
+          "title": "SEMANA 4: POLÍGONOS",
+          "description": "Polígonos equiángulos\nPolígonos regulares\nPolígonos regulares inscritos en la circunferencia",
+          "drive": "https://drive.google.com/file/d/1-AlkypY9hLYdGDmjqlhz3zuo3aGV_B9k/preview"
+        },
+        {
+          "title": "SEMANA 3: CIRCUNFERENCIA",
+          "description": "Ángulos en la circunferencia\nTeoremas en la circunferencia\nCircunferencias tangentes interiores y exteriores",
+          "drive": "https://drive.google.com/file/d/1MHUvySGCkkFEq7WQ39RchTmj2yeOLkyH/preview"
+        },
+        {
+          "title": "SEMANA 2: CUADRILÁTERO",
+          "description": "Trapezoide\nTrapecio\nParalelogramo",
+          "drive": "https://drive.google.com/file/d/1sgUatrFsxmsAzyfWb4f6nG9ystdW_jBU/preview"
+        },
+        {
+          "title": "SEMANA 1: CONGRUENCIA DE TRIÁNGULOS",
+          "description": "Casos de congruencia.\nAplicaciones de la congruencia.",
+          "drive": "https://drive.google.com/file/d/18ILKfm3YeoA4uFvpJKW0YTPbvfaf0qYl/preview"
+        }
+      ]
+    },
+    {
+      "name": "Trigonometría",
+      "classes": [
+        {
+          "title": "SEMANA 18: NOVENA PRÁCTICA FIJAS SAN MARCOS",
+          "description": "Razones trigonométricas de ángulos agudos:  Aplicaciones.\nIdentidades trigonométricas:  Fundamentales, dobles y compuestos\nIdentidades trigonométricas: Transformaciones trigonométricas.\nCircunferencia trigonométrica: Variación de seno y coseno\n",
+          "drive": "https://drive.google.com/file/d/1gY4JBTZYpVMiOBcOdhm-uMIsCgEVOa1-/preview"
+        },
+        {
+          "title": "SEMANA 17: OCTAVA PRÁCTICA FIJAS SAN MARCOS",
+          "description": "Resolución de triángulos: Teorema de cosenos \nIdentidades trigonométricas:  Ángulo doble II (auxiliares)\nIdentidades trigonométricas:  Transformaciones trigonométricas (caso II).\nEcuaciones trigonométricas elementales\n",
+          "drive": "https://drive.google.com/file/d/1HdeUYS1bPtZfbLYYCfE3tFD1qc_YYC0I/preview"
+        },
+        {
+          "title": "SEMANA 16: SÉPTIMA PRÁCTICA FIJAS SAN MARCOS",
+          "description": "Resolución de triángulos: Teorema de senos.\nIdentidades trigonométricas:   Reducción al Primer cuadrante (caso I y II).\nIdentidades trigonométricas: Transformaciones trigonométricas (caso I).\nEcuaciones trigonométricas elementales\n",
+          "drive": "https://drive.google.com/file/d/1z3AMdqbBlBtjfXgYmC-IW2o0PnwHo5Gv/preview"
+        },
+        {
+          "title": "SEMANA 15: SEXTA PRÁCTICA FIJAS SAN MARCOS",
+          "description": "Razones trigonométricas de ángulos agudos: Ángulos verticales.\nIdentidades trigonométricas: Reducción al Primer cuadrante (caso I ).\nIdentidades trigonométricas: Ángulos dobles (auxiliares).\nFunciones trigonométricas: Grafica del coseno. \n",
+          "drive": "https://drive.google.com/file/d/1JejkJXPX1q6sx-psBXhaJV3fkYyPDdTS/preview"
+        },
+        {
+          "title": "SEMANA 14: QUINTA PRÁCTICA FIJAS SAN MARCOS",
+          "description": "Razones trigonométricas de ángulos agudos: Resolución de triángulos rectángulos.\nIdentidades trigonométricas:  Ángulos compuestos III (propiedades)\nIdentidades trigonométricas: Ángulos dobles I.\nFunciones trigonométricas: Grafica del seno. \n",
+          "drive": "https://drive.google.com/file/d/1CXq7FgSAN8F4Jgu-7MutlZ7N9TWB6q-E/preview"
+        },
+        {
+          "title": "SEMANA 13: CUARTA PRÁCTICA FIJAS SAN MARCOS",
+          "description": "Razones trigonométricas de ángulos agudos: Propiedades\nRazones trigonométricas de un ángulo en posición normal: Ángulos cuadrantales.\nIdentidades trigonométricas: Ángulos compuestos II (auxiliares)\nFunciones trigonométricas: Rango.\n",
+          "drive": "https://drive.google.com/file/d/14vSmtQDWvrK8lVvp3UNaEzNKjpGQNE_R/preview"
+        },
+        {
+          "title": "SEMANA 12: RESOLUCIÓN DE TRIÁNGULOS OBLICUÁNGULOS",
+          "description": "Teorema de senos.\nTeorema de cosenos.\nTeorema de tangentes.",
+          "drive": "https://drive.google.com/file/d/1pFE7tN4azNtJyaHVtb-89aJAPjnBpheP/preview"
+        },
+        {
+          "title": "SEMANA 11: ECUACIONES TRIGONOMÉTRICAS",
+          "description": "Ecuaciones trigonométricas elementales.\nEcuaciones trigonométricas no elementales.\n",
+          "drive": "https://drive.google.com/file/d/1PuOTCyFZK_RAeo71YJu_Vi9BWwX1dgfv/preview"
+        },
+        {
+          "title": "SEMANA 10: FUNCIONES TRIGONOMÉTRICAS II",
+          "description": "Gráfica y análisis de la función trigonométrica seno.\nGráfica y análisis de la función trigonométrica coseno.",
+          "drive": "https://drive.google.com/file/d/17aG8VgROM3XzIeMxQzQwh384qbx_ghgn/preview"
+        },
+        {
+          "title": "SEMANA 9:  FUNCIONES TRIGONOMÉTRICAS I",
+          "description": "Dominio de una función trigonométrica.\nRango de una función trigonométrica.\nPeriodo de una función trigonométrica.",
+          "drive": "https://drive.google.com/file/d/1fabX7BWQy0ti5KONawum03RExC1PKfB2/preview"
+        },
+        {
+          "title": "SEMANA 8: CIRCUNFERENCIA TRIGONOMÉTRICA",
+          "description": "Definición del seno y coseno de un arco en la C.T.\nVariación del seno de un arco.\nVariación del coseno de un arco.",
+          "drive": "https://drive.google.com/file/d/1bBya70a8_vtrOyzhJgJdx_ZG5UVQke4V/preview"
+        },
+        {
+          "title": "SEMANA 7: TRANSFORMACIONES TRIGONOMÉTRICAS",
+          "description": "Suma o diferencia de senos y cosenos a producto.\nDe producto a suma o diferencia.",
+          "drive": "https://drive.google.com/file/d/19WjR6hscW1K3xc-VNJuYe-ILF6lf9uPq/preview"
+        },
+        {
+          "title": "SEMANA 6: IDENTIDADES TRIGONOMÉTRICAS DE ÁNGULOS MÚLTIPLES",
+          "description": "Identidades trigonométricas del ángulo doble.\nIdentidades trigonométricas del ángulo triple.",
+          "drive": "https://drive.google.com/file/d/1xmoPIr8-FlMh_E1GmCdRs6p4uuG0W_UE/preview"
+        },
+        {
+          "title": "SEMANA 5: IDENTIDADES TRIGONOMÉTRICAS DE ÁNGULOS COMPUESTOS",
+          "description": "Seno, coseno y tangente de la suma y diferencia de dos ángulos.\nIdentidades trigonométricas auxiliares.\nPropiedades relacionadas a las identidades de ángulos compuestos.",
+          "drive": "https://drive.google.com/file/d/1kCEb5DbFMBt6EVPZPGbumtl_fkOqrwDT/preview"
+        },
+        {
+          "title": "SEMANA 4: IDENTIDADES TRIGONOMÉTRICAS FUNDAMENTALES ",
+          "description": "Identidades trigonométricas por cociente, recíprocas y pitagóricas.\nIdentidades trigonométricas auxiliares.\nPropiedad: asenx+ bcosx=c.",
+          "drive": "https://drive.google.com/file/d/1eh6a2LLeC0uwxCQhJq9_ZEhl5ESf8v5i/preview"
+        },
+        {
+          "title": "SEMANA 3: RAZONES TRIGONOMÉTRICAS DE UN ÁNGULO EN POSICIÓN NORMAL",
+          "description": "Definición de las razones trigonométricas de un ángulo en posición normal.\nSignos de las razones trigonométricas en los cuadrantes.\nÁngulos cuadrantales y sus razones trigonométricas.",
+          "drive": "https://drive.google.com/file/d/1xJQH-5ewoYdTTS3L92gQimHZ4YJw70NC/preview"
+        },
+        {
+          "title": "SEMANA 2: RAZONES TRIGONOMÉTRICAS DE UN ÁNGULO AGUDO II",
+          "description": "Resolución de triángulos rectángulos.\nÁngulos verticales.",
+          "drive": "https://drive.google.com/file/d/1hSehXS2OE-q_cHJuG7DGE7N_xg8QbgpC/preview"
+        },
+        {
+          "title": "SEMANA 1: RAZONES TRIGONOMÉTRICAS DE UN ÁNGULO AGUDO I",
+          "description": "Definición de las razones trigonométricas de un ángulo agudo. \nPropiedades (razones reciprocas y de ángulos complementarios).\nRazones trigonométricas de ángulos notables.",
+          "drive": "https://drive.google.com/file/d/1LQGZKJMejmN4GSyZxwMdUCv6Tvgp-daI/preview"
+        }
+      ]
+    },
+    {
+      "name": "Física",
+      "classes": [
+        {
+          "title": "SEMANA 18: ÓPTICA GEOMÉTRICA – ONDAS ELECTROMAGNÉTICAS – FISICA MODERNA",
+          "description": "Reflexión de la luz\nEspejos planos\nRefracción de la luz (Snell)\nOndas electromagnéticas \nEfecto fotoeléctrico \nRayos X\n",
+          "drive": "https://drive.google.com/file/d/116T7M-EiRe8lPS5u-HexdJNxhZd6Na5J/preview"
+        },
+        {
+          "title": "SEMANA 17: ELECTRODINÁMICA II - ELECTROMAGNETISMO",
+          "description": "Circuitos eléctricos (incluye instrumentos de medida, fuentes reales y potencia eléctrica)\nInducción magnética (incluye conductor rectilíneo de\ngran longitud y conductor circunferencial)\nFuerza magnética (solo sobre una partícula, cálculo del\nradio)\nFlujo magnético\nInducción electromagnética (ley de Faraday y regla de\nLenz, incluye barra conductora)\nTransformadores\n",
+          "drive": "https://drive.google.com/file/d/1K8PadCZW6k72lvGTXG-KZMCSFHcjO9id/preview"
+        },
+        {
+          "title": "SEMANA 16: ELECTROSTÁTICA – ELECTRODINÁMICA I",
+          "description": "Ley de Coulomb\nIntensidad de campo eléctrico (de partículas y campo homogéneo)\nPotencial eléctrico, energía potencial eléctrica y trabajo\ndel campo eléctrico\nCorriente eléctrica y ley de Ohm (incluye ley de Poulliet)\nConexión de resistores (resistencia equivalente y ley de Ohm)\n",
+          "drive": "https://drive.google.com/file/d/11ZrOnW-j81s_4v5W0NRhtsb0As_kasgz/preview"
+        },
+        {
+          "title": "SEMANA 15: HIDROSTÁTICA - HIDRODINÁMICA – FENÓMENOS TÉRMICOS",
+          "description": "Presión hidrostática (presión absoluta, manométrica)\nPrincipio de Pascal (prensa hidráulica)\nEmpuje (incluir peso aparente)\nHidrodinámica (ecuación de continuidad)\nCambio de temperatura\nCambio de Fase\n",
+          "drive": "https://drive.google.com/file/d/13vota8xv4XpLia7pJjn4Gp07d-W6bOoM/preview"
+        },
+        {
+          "title": "SEMANA 14: OSCILACIONES Y ONDAS MECÁNICAS",
+          "description": "MAS I (velocidad, aceleración, ecuación del movimiento)\nMAS II (energía)\nPéndulo simple\nOndas mecánicas: clasificación, rapidez, interpretación de la ecuación de onda, rapidez en cuerda tensa\nIntensidad sonora y nivel de intensidad\n",
+          "drive": "https://drive.google.com/file/d/1fKvyedKZ4rcILGnnphhtYO8ccd3MfYuH/preview"
+        },
+        {
+          "title": "SEMANA 13: ENERGÍA MECÁNICA – CANTIDAD DE MOVIMIENTO",
+          "description": "Relación trabajo energía (W neto - Ec y W de FNC-Em)\nConservación de la energía mecánica\nPotencia mecánica (incluye eficiencia)\nConservación de la cantidad de movimiento\n",
+          "drive": "https://drive.google.com/file/d/1fATpaTlht_BfzUT0FyyWizveTIseKZqU/preview"
+        },
+        {
+          "title": "SEMANA 12: ONDAS ELECTROMAGNÉTICAS Y FÍSICA MODERNA",
+          "description": "Ondas electromagnéticas. \nCuantización de la energía.\nEfecto fotoeléctrico, rayos X.",
+          "drive": "https://drive.google.com/file/d/1zVM6g5IQEhOPK4XNU0a4f6RBgEMMpOM1/preview"
+        },
+        {
+          "title": "SEMANA 11: ELECTROMAGNETISMO",
+          "description": "Ley de biot Savart (conductor de gran longitud de forma rectilínea y circunferencial).\nFuerza magnética sobre una partícula.\nflujo magnético. Inducción electromagnética.\nLey de Lenz.",
+          "drive": "https://drive.google.com/file/d/13R4YIbc2e8wKcTAnPfn_upUeadc0-UVw/preview"
+        },
+        {
+          "title": "SEMANA 10: ELECTRODINÁMICA II",
+          "description": "Circuitos eléctricos, leyes de Kirchhoff.\nInstrumentos de medición.\nPotencia eléctrica.",
+          "drive": "https://drive.google.com/file/d/1MFku7sy7yOnuDgO2Q3xpqb5Nd8LJkbMG/preview"
+        },
+        {
+          "title": "SEMANA 9: ELECTRODINÁMICA I",
+          "description": "Corriente eléctrica. Ley de Poulliet.\nLey de ohm.\nConexión de resistores.",
+          "drive": "https://drive.google.com/file/d/1X_Y0eG37YO1ZuQpsfupSPURMThzXIYhP/preview"
+        },
+        {
+          "title": "SEMANA 8: ELECTROSTÁTICA",
+          "description": "Cuantificación de la carga eléctrica y ley de Coulomb.\nIntensidad de campo eléctrico, campo eléctrico homogéneo.\nEnergía potencial eléctrica, potencial eléctrico.\nTrabajo del campo y del agente externo.\nDiferencia de potencial en un campo homogéneo.",
+          "drive": "https://drive.google.com/file/d/1eQFcaK52KNbUiRodID6WbrqvTlcNmv8F/preview"
+        },
+        {
+          "title": "SEMANA 7: HIDROSTÁTICA",
+          "description": "Presión hidrostática, presión absoluta, Principio fundamental.\nPrincipio de Pascal.\nPrincipio de Arquímedes.",
+          "drive": "https://drive.google.com/file/d/1WZLxekzld7B3NtCNrbMCWQ6lvls5qAaR/preview"
+        },
+        {
+          "title": "SEMANA 6: ONDAS MECÁNICAS",
+          "description": "Velocidad de propagación.\nInterpretación de la ecuación.\nOndas sonoras.",
+          "drive": "https://drive.google.com/file/d/17XqkCtoQcGkU9uZd_Iei_dPcCdWLZ19v/preview"
+        },
+        {
+          "title": "SEMANA 5: OSCILACIONES",
+          "description": "Calculo velocidad y aceleración máxima\nMovimiento armónico simple (interpretación de la ecuación del movimiento).\nEnergía mecánica en un MAS.\nPéndulo simple.\n",
+          "drive": "https://drive.google.com/file/d/1F-cmgPqhjbeXjPFUMc9IjAKfviOXQ82Q/preview"
+        },
+        {
+          "title": "SEMANA 4: IMPULSO Y CANTIDAD DE MOVIMIENTO",
+          "description": "Impulso de una fuerza variable. Relación Impulso y cantidad de movimiento.\nConservación de la conservación de la cantidad de movimiento, choques.",
+          "drive": "https://drive.google.com/file/d/17-4g9w5Wo93SHMyxcg9lsnDtGZi9lhD4/preview"
+        },
+        {
+          "title": "SEMANA 3:  TRABAJO Y ENERGÍA MECÁNICA",
+          "description": "Trabajo mecánico (para una fuerza constante y de módulo variable).\nRelación trabajo y energía mecánica.\nConservación de la energía mecánica.\nPotencia mecánica (uno con relación trabajo y energía).",
+          "drive": "https://drive.google.com/file/d/1lZmgKI03rLdtonSFtoSv4ieiKnruIf9x/preview"
+        },
+        {
+          "title": "SEMANA 2: ESTÁTICA Y DINÁMICA",
+          "description": "Primera condición de equilibrio (con fuerza de rozamiento).\nSegunda condición de equilibrio.\nDinámica rectilínea (sistema).\nDinámica circunferencial.",
+          "drive": "https://drive.google.com/file/d/1NxPIZxqDUi2pML7NzwZQJ5LiKHrejiEf/preview"
+        },
+        {
+          "title": "SEMANA 1: CINEMÁTICA",
+          "description": "MRU.\nMRUV, MVCL.\nMPCL.\nMCU Y MCUV.",
+          "drive": "https://drive.google.com/file/d/1fleC2KM7BYffb8wZMJzfiLbZ5-aIe6OG/preview"
+        }
+      ]
+    },
+    {
+      "name": "Química",
+      "classes": [
+        {
+          "title": "SEMANA 18: COMPUESTOS ORGÁNICOS OXIGENADOS Y CONTAMINACIÓN AMBIENTAL",
+          "description": "Alcoholes, aldehídos y cetonas\nÁcidos carboxílicos y ésteres\nCompuestos polifuncionales (solo 2 grupos funcionales)\nCalentamiento global, destrucción de la capa de ozono \nlluvia acida y eutroficación (contaminación del agua)  \n",
+          "drive": "https://drive.google.com/file/d/1FaaJ6X4m3SAuGXKecfmV56HTZmD44Nj8/preview"
+        },
+        {
+          "title": "SEMANA 17: PROPIEDADES DEL CARBONO E HIDROCARBUROS",
+          "description": "Propiedades químicas de carbono \nAlcanos: cadena lineal, cadena ramificada, isómeros de cadena y tipos de carbonos. \nAlquenos, alquinos y eninos.\nGas natural. Reacción de combustión completa.\nBenceno, derivados mono sustituidos y disustituido.\n",
+          "drive": "https://drive.google.com/file/d/1SSc-iqulEz1Q2YpG0uUKBY3o62ZjMgtF/preview"
+        },
+        {
+          "title": "SEMANA 16: ÁCIDO –BASE Y ELECTRÓLISIS",
+          "description": "Propiedades generales de ácidos-bases y las ecuaciones químicas de: descomposición de carbonatos y neutralización. \nTeoría acido –base: de Arrhenius. Ácidos y bases fuertes, pH y pOH\n Electrolisis de: NaCl fundido y soluciones (diluida y concentrada).\nLeyes de Faraday (dato la semirreacción)\n",
+          "drive": "https://drive.google.com/file/d/1uiOkJGmAH8C2h3igQ23cuK8AHs-ZgGaf/preview"
+        },
+        {
+          "title": "SEMANA 15: CINÉTICA QUÍMICA Y EQUILIBRIO QUÍMICO",
+          "description": "Cinética química, Velocidad de reacción química y factores que la modifican (temperatura, concentración y catalizador).\nLey de acción de masas en reacción elemental y reacción compleja (mecanismo de la reacción).\nEquilibrio químico y constante de equilibrio (Kc y Kp)\nPrincipio de Le Chatelier\n",
+          "drive": "https://drive.google.com/file/d/19ZT4mSGJoVXpuVEbXou29udBIv_KgBTL/preview"
+        },
+        {
+          "title": "SEMANA 14: SOLUCIONES",
+          "description": "Soluciones acuosas (moléculares y electroliticas) y solubilidad\nUnidades de concentración física (% m/m, % V /V, % m/V, ppm)\nUnidades de concentración químicas (molaridad, normalidad, molalidad relación entre molaridad y normalidad)\nOperaciones con soluciones (dilución) Neutralización ácido-base y estequiometria\n",
+          "drive": "https://drive.google.com/file/d/1sVa7V4YiUUrvwFtzYIz4sLndEJFsWBSv/preview"
+        },
+        {
+          "title": "SEMANA 13: REACCIONES QUÍMICAS Y ESTEQUIOMETRÍA",
+          "description": "Tipo de reacciones químicas: según el origen de los productos y según la energía calorífica involucrada.\nReacciones redox, balance de reacciones redox, ion electrón en medio ácido\nEstequiometria, ley de Lavoisier, Proust y Gay-Lussac, Reactivo en exceso y limitante, \nRendimiento porcentual y grado de pureza\n",
+          "drive": "https://drive.google.com/file/d/1oekA5lINNWsOETFXvWIiOZGXsqi0mlik/preview"
+        },
+        {
+          "title": "SEMANA 12: OMPUESTOS OXIGENADOS",
+          "description": "funciones oxigenadas y grupo funcional. Alcoholes y tipos.\nÉter, compuestos carbonílicos (Aldehído y Cetona).\nÁcido Carboxílico y Ester (incluir esterificación).\nCompuestos polifuncionales.",
+          "drive": "https://drive.google.com/file/d/1SRoAhYKc60ykK5nQnxeO2C0uelcmUs93/preview"
+        },
+        {
+          "title": "SEMANA 11:  HIDROCRABUROS",
+          "description": "Propiedades químicas del carbono: tetravalencia, covalencia, autosaturación, hibridación (regla práctica).\nConcepto de hidrocarburos, clasificación de hidrocarburo (aromático y alifático). Alcanos lineales y ramificados y tipo de carbonos.\nAlquenos y Alquinos: lineales y ramificados. \nBenceno, derivados monosustitudos y disustituidos.",
+          "drive": "https://drive.google.com/file/d/1VweUfMGssBBGs5GF0x-WlZZpP1ojqu3z/preview"
+        },
+        {
+          "title": "SEMANA 10: ELECTRÓLISIS",
+          "description": "Concepto, descripción de la celda electrolítica. \nElectrólisis de Cloruro de sodio fundido y otros compuestos iónicos fundido.\nElectrólisis de: solución concentrada (salmuera y otros) y solución diluida (agua acidulada). \nLeyes de Faraday: Primera y segunda.\n\n",
+          "drive": "https://drive.google.com/file/d/1GSRAsrhf7_XO9BoWqxUuvsvX7GrHDBlo/preview"
+        },
+        {
+          "title": "SEMANA 9: EQUILIBRIO QUÍMICO",
+          "description": "Concepto de Equilibrio Químico y características generales.\nConstantes de equilibrio: Kc y Kp.\nEquilibrio homogéneo y heterogéneo.\nPrincipio de Le -Chatelier.",
+          "drive": "https://drive.google.com/file/d/1Y6Rem0VdVoqSxkBjkH8GnzI8-DaH8nku/preview"
+        },
+        {
+          "title": "SEMANA 8: SOLUCIONES",
+          "description": "Concepto de soluciones, solubilidad y clasificación por su concentración: diluidas, concentradas y saturadas.\nUnidades físicas de concentración (%masa, %volumen, %masa-volumen). \nUnidades químicas de concentración (Molaridad, Normalidad).\nDilución, Neutralización y estequiometria con soluciones.",
+          "drive": "https://drive.google.com/file/d/1ZGbgJIqAySvZBfDQdQdDhXYbr5VCbZvx/preview"
+        },
+        {
+          "title": "SEMANA 7: ESTEQUIOMETRÍA",
+          "description": "Leyes ponderales: Lavoisier y Proust.\nLey volumétrica.\nReactivo limitante y reactivo en exceso. \nRendimiento porcentual de una reacción.",
+          "drive": "https://drive.google.com/file/d/1b4bZgslYQ5nbApDmsSY7QhN7CR26iIjy/preview"
+        },
+        {
+          "title": "SEMANA 6:  REACCIONES QUÍMICAS",
+          "description": "Concepto de reacción química (ruptura y formación de enlace químico).\nReacción química Redox y no Redox.\nMétodo de balance de ecuaciones química: Tanteo y por el cambio de EO.\nMétodo ion – electrón en medio ácido.\n\n",
+          "drive": "https://drive.google.com/file/d/1f3JYBuXoRM0R3IpsIT-DaN7eG_J-IHRr/preview"
+        },
+        {
+          "title": "SEMANA 5: ESTADO GASEOSO",
+          "description": "Estado gaseoso, variables de estado.\nEcuación universal del gas ideal y condiciones normales.\nEcuación general de los gases ideales.\nMezcla de gases (Ley de Dalton).",
+          "drive": "https://drive.google.com/file/d/17zRxHf3F7EnLCsUPt1npLgG7oMeZB9HK/preview"
+        },
+        {
+          "title": "SEMANA 4: CÁLCULOS QUÍMICOS",
+          "description": "Unidad de masa atómica (uma), masa atómica, peso molecular y peso formula.\nMol, masa molar y numero de moles (n).\nInterpretación de una formula química, pureza de una muestra.\nComposición porcentual de un compuesto, formula empírica y molecular.\n",
+          "drive": "https://drive.google.com/file/d/1guYeeFTUtwoAhy4DKpjTUIA1ElgzO-n9/preview"
+        },
+        {
+          "title": "SEMANA 3: ENLACE QUÍMICO",
+          "description": "Concepto de enlace químico, energía de enlace químico y clasificación.\nEnlace iónico, propiedades generales de compuestos iónicos.\nEnlace covalente y clasificación: Enlace simple, múltiple, sigma, pi y dativo.\nEnlace polar, enlace apolar. \n\n\n\n",
+          "drive": "https://drive.google.com/file/d/1xjPLL0Bx4YAiOvNGrv4TQX-X8cZ0XXR2/preview"
+        },
+        {
+          "title": "SEMANA 2: TABLA PERIODICA MODERNA",
+          "description": "Ley periódica de Moseley, descripción de periodo y grupo. Clasificación de los elementos según sus propiedades.\nUbicación de elementos representativos y de transición en la tabla periódica.\nPropiedades periódicas: Radio atómico, energía de ionización.\nElectronegatividad. Variación general de las propiedades periódicas.",
+          "drive": "https://drive.google.com/file/d/117NR9i6ExWS1yz8CxbEBoTK_vWPLjfK8/preview"
+        },
+        {
+          "title": "SEMANA 1: ESTRUCTURA ATÓMICA Y CONFIGURACIÓN ELECTRÓNICA",
+          "description": "Concepto de átomo, partes del átomo y partículas subatómicas. \nConcepto y representación de un núclido, isótopos y iones.\nRegla de Möeller (anomalías del Cu y Cr) y Regla de Hund.\nConfiguración electrónica de iones.",
+          "drive": "https://drive.google.com/file/d/1nsa882QsIigBqUb3vahP1Fs3lFevVQpR/preview"
+        }
+      ]
+    },
+    {
+      "name": "Biología",
+      "classes": [
+        {
+          "title": "SEMANA 18: ECOLOGÍA II",
+          "description": "Biodiversidad. Niveles de la biodiversidad. Factores determinantes de la Biodiversidad en el Perú\nSituación de las especies. Animales extintos, en Peligro crítico, en peligro y en situación vulnerable. (Libro Rojo de la Fauna Silvestre Amenazada del Perú. Agosto 2018)\nEquilibrio Ecológico. Causas del desequilibrio ecológico: Sobreexplotación e introducción de especies exóticas\nContaminación y sus efectos.  Calentamiento global.  \nCambio climático.\nLluvia ácida.\nEutrofización.  \nIntoxicación por contaminantes. Bioacumulación. Biomagnificación.\nRestitución del equilibrio ecológico. Restauración ecológica.\nBiorremediación.\n",
+          "drive": "https://drive.google.com/file/d/1y1Wv9LVeQlRIlnDg1E3sdvVtsq6dq5x4/preview"
+        },
+        {
+          "title": "SEMANA 17: ECOLOGÍA I",
+          "description": "Conceptos. Ecosistema. Biotopo. Biocenosis. Población.  Hábitat. Nicho ecológico. Comunidad. Bioma. Ecósfera\nPoblación: Dinámica de las poblaciones. Tasa de crecimiento poblacional\nRelaciones intraespecíficas: territorialidad, predominio social, compensación. sociedades, migraciones.\nEcosistema.  Flujo de materia y energía. Niveles tróficos\nCadena Alimenticia\nRed Alimenticia\nPirámide Alimenticia\nComunidad.  Relaciones interespecíficas:  neutralismo, mutualismo, cooperación, comensalismo, competencia, amensalismo, parasitismo y predación.\nSucesión ecológica: Primaria, Sucesión Ecológica secundaria y evolutiva\nCiclos biogeoquímicos: Ciclo del carbono. Ciclo del fósforo. Ciclo del Nitrógeno.\n",
+          "drive": "https://drive.google.com/file/d/1Nncto9UrJr_ahRBXs1YaqbzFLEiRQ8yR/preview"
+        },
+        {
+          "title": "SEMANA 16: FISIOLOGÍA HUMANA II",
+          "description": "Sistema nervioso humano. SNC: médula espinal \nEncéfalo: Cerebro. Cerebelo. Tronco encefálico\nNervios craneales\nNervios Espinales\nSistema Nervioso Autónomo: Simpático y parasimpático\nSistema endocrino humano: Las hormonas. Mecanismos de acción.\nRegulación Hormonal.\nHormonas Hipofisiarias.\nHormonas de la tiroides y paratiroidea,\nHormonas de las G. Suprarrenales y del páncreas,\n",
+          "drive": "https://drive.google.com/file/d/189kKWO6YFhcBklVZekT1ZDcqoe_dM4Xc/preview"
+        },
+        {
+          "title": "SEMANA 15: FISIOLOGÍA HUMANA I",
+          "description": "Sistema Digestivo Humano. Boca. Glándulas Salivales.  Digestión en la Boca\nEstómago. Digestión en el estómago.\nIntestino delgado. Digestión en el Intestino delgado.  Acción del jugo pancreático, Acción de la Bilis.  Absorción.\nHígado. Funciones\nIntestino Grueso. Funciones.\nSistema Circulatorio Humano.   Sistema Nodal del Corazón\nCiclo cardiaco. Ruidos Cardiacos\nVasos Sanguíneos:  Arterias, venas y capilares. Aneurismas y varices.\nPulso arterial. Presión arterial\nCirculación Mayor y menor.\n",
+          "drive": "https://drive.google.com/file/d/13BIJnUoCTKyEprH02_3feKME2jccVFdH/preview"
+        },
+        {
+          "title": "SEMANA 14: BOTÁNICA ",
+          "description": "Histología Vegetal.  Tejidos meristemáticos. Meristemas primarios. Meristemas secundarios. Cambium suberógeno y vascular\nTejido epidérmico. Fisiología de las estomas. Tejido peridérmico\nXilema y Floema. Transporte de savia bruta. Transporte de savia Elaborada\nColénquima y esclerénquima\nHistología de la raíz\nHistología del tallo\nHormonas Vegetales. Características. Auxinas\nGiberelinas\nCitocininas\nÁcido abscísico y etileno\n",
+          "drive": "https://drive.google.com/file/d/1-TTz01JN8or8nrb5JbmP5vV5oDY11PNv/preview"
+        },
+        {
+          "title": "SEMANA 13: ORIGEN DE LA VIDA Y EVOLUCIÓN BIOLÓGICA ",
+          "description": "Origen de la Vida: Teoría de la generación espontánea. Experimento de Redi\nTeoría Biogénesis. Experimento de Pasteur.\nTeoría quimiosintética .Experimento Miller-Urey\nTeorías  Panspérmicas\nEvolución. Teoría evolutiva de Lamarck.\nTeoría de Selección Natural. \nTeoría evolutiva de De Vries.\nTeoría evolutiva de  Dobzhansky.\nEvidencias de la evolución: Paleontológicas, anatomía comparada, Evidencias de la evolución: embriología comparada, etología comparada, citogenéticas, bioquímicas, biología molecular.\nPatrones de la evolución: convergente, divergente, radiación adaptativa, extinción.\n",
+          "drive": "https://drive.google.com/file/d/1u8ZhtajAi5f0P0c5jS_tlAsF4c9tx6eo/preview"
+        },
+        {
+          "title": "SEMANA 12: ECOLOGÍA",
+          "description": "Niveles de estudio de la Ecología. Población (Dinámica de las poblaciones) hábitat y Nicho ecológico. Ecosistema (Biotopo y Biocenosis), Biomas. Ecotono. Biosfera y ecósfera. \nInterrelaciones biológicas, intraespecíficas, interespecíficas. Sucesión ecológica, evolutiva, primaria y secundaria.\nCalentamiento global. Deterioro de la capa de ozono. Lluvia ácida. Smog Fotoquímico. Eutrofización. Bioacumulación.\n",
+          "drive": "https://drive.google.com/file/d/1kj8fg1Htp0IGS_PdPfgDpOPJQEjC_q45/preview"
+        },
+        {
+          "title": "SEMANA 11: SISTEMA ENDOCRINO HUMANO",
+          "description": "Elementos de la coordinación endocrina. Hormonas. Clasificación de las hormonas. Mecanismos de control Hormonal.Mecanismos de acción hormonal.\nFunciones de las hormonas humanas",
+          "drive": "https://drive.google.com/file/d/1NXFIQlGCnMGLqLplraJURdH71q_XxZj-/preview"
+        },
+        {
+          "title": "SEMANA 10: SISTEMA NERVIOSO HUMANO",
+          "description": "Elementos de la coordinación nerviosa. Neurona. Fisiología de la neurona: conducción y transmisión del impulso nervioso. \nFunciones del sistema nervioso central. Funciones del sistema nervioso autónomo: simpático y parasimpático.",
+          "drive": "https://drive.google.com/file/d/1n2ty3YfYMmw0ekaY8z3XBkDU-hT7PE3y/preview"
+        },
+        {
+          "title": "SEMANA 9:  SISTEMA RESPIRATORIO HUMANO E URINARIO",
+          "description": "SISTEMA RESPIRATORIO HUMANO. Funciones de las vías respiratorias. Funciones de los pulmones. Intercambio Alveolo-capilar.\nSISTEMA URINARIO HUMANO. Funciones de los riñones y de las vías urinarias.\n\n\n",
+          "drive": "https://drive.google.com/file/d/1anh8jH8WBooVvjlmGdnyh0Mtpvur5TNd/preview"
+        },
+        {
+          "title": "SEMANA 8: SISTEMA DIGESTIVO HUMANO Y CARDIOVASCULAR HUMANO",
+          "description": "SISTEMA DIGESTIVO HUMANO. Funciones de los componentes del tubo digestivo. Digestión mecánica y digestión química. Enzimas digestivas. Estructura y mecanismo de acción. Digestión de glúcidos, lípidos, proteínas y ácidos nucleicos.\nSISTEMA CARDIOVASCULAR SANGUÍNEO. El corazón, sistema nodal ciclo cardiaco. Electrocardiograma. Ruidos cardiacos. y los vasos sanguíneos.",
+          "drive": "https://drive.google.com/file/d/1ArTELbnEdZWuXmaQCReWIlzgxC6KDd0l/preview"
+        },
+        {
+          "title": "SEMANA 7: ZOOLOGIA",
+          "description": "SISTEMA DIGESTIVO incompleto (celentéreo, planaria) y completo (insecto, ave, rumiante). \nINTERCAMBIO DE GASES EN ANIMALES. branquias, tráqueas, pulmones, filotráqueas, cutánea). \nSISTEMA CIRCULATORIO EN ANIMALES: abierto en insectos, cerrado en lombriz de tierra, peces, anfibios, reptiles, aves. \nSISTEMA EXCRETOR EN ALGUNOS ANIMALES: planaria, lombriz de tierra, saltamontes, camarón, \nREPRODUCCIÓN SEXUAL EN ANIMALES: fecundación, animales ovíparos, ovovivíparos y vivíparos, metamorfosis. Partenogénesis.",
+          "drive": "https://drive.google.com/file/d/1ZKpxJL4Dctu1C4eRku6EcYyPkUwU8Wnl/preview"
+        },
+        {
+          "title": "SEMANA 6: BOTÁNICA",
+          "description": "HISTOLOGÍA VEGETAL. Tejidos meristemáticos y crecimiento vegetal. Tejidos  conductores y transporte de savias. Tejidos protectores y absorción, transpiración, gutación y  respiración vegetal. Tejidos parenquimáticos. Tejidos de  sostén, y tejidos secretores. \n FITOHORMONAS: auxinas, giberelinas, citocininas, ácido abscísico y etileno. Aplicaciones.",
+          "drive": "https://drive.google.com/file/d/1aqWZt_64YofYMuewCWkwBeB7M4Ad8cDz/preview"
+        },
+        {
+          "title": "SEMANA 5:  ORIGEN DE LA VIDA Y EVOLUCIÓN",
+          "description": "ORIGEN DE LA VIDA. Teorías de generación espontánea, Biogénesis, Panspermia y Bioquímica. Experimento de Miller y Urey.\nEVOLUCIÓN BIOLÓGICA. Teorías de Lamarck, Darwin, De Vries, Dobzhansky. Patrones evolutivos de convergente, divergente, radiación adaptativa, extinción. Evidencias de la evolución: anatomía comparada, embriología, bioquímica comparada, citogenética comparada, biología molecular comparada, etología comparada, biogeográficas y paleontológicas. ",
+          "drive": "https://drive.google.com/file/d/1ad6yh15N1N01_wVYCJ7zXe9r23xogtEO/preview"
+        },
+        {
+          "title": "SEMANA 4: BIOLOGIA MOLECULAR Y GENÉTICA",
+          "description": "BIOLOGIA MOLECULAR. Expresión génica. Etapas: transcripción y traducción (estructura y composición de los ribosomas). Código genético.\nGENÉTICA: Problemas de herencia mendeliana, sanguínea, ligada al sexo y herencia no mendeliana. Principios de Bioética.\n",
+          "drive": "https://drive.google.com/file/d/1x80LTpVzkQtuOQv-EZBMkXFbgj8V03tg/preview"
+        },
+        {
+          "title": "SEMANA 3:  RESPIRACIÓN CELULAR",
+          "description": "Definición, importancia, ecuación general. Mitocondria. Estructura.\nEtapas de la Respiración celular. Glucólisis. Ciclo de Krebs. Fosforilación oxidativa. Balance energético.Fermentación láctica y alcohólica.\n",
+          "drive": "https://drive.google.com/file/d/14oBEJg4CL0qJlrho0yATo0Rg32F1ss3c/preview"
+        },
+        {
+          "title": "SEMANA 2: FOTOSÍNTESIS",
+          "description": "Definición, importancia, ecuación general. Cloroplasto. Estructura. Pigmentos fotosintéticos.\nEtapas de la Fotosíntesis: fase luminosa y Fase Oscura. Productos de la Fotosíntesis.\n\n\n\n",
+          "drive": "https://drive.google.com/file/d/1NbdyA_xDoql_lkeF1lyIm8c28d_kcx7s/preview"
+        },
+        {
+          "title": "SEMANA 1: BIOLOGIA CELULAR",
+          "description": "Diferencias entre célula procariota y célula eucariota. Componentes de la célula eucariota: matriz extracelular: pared celular y membrana celular. Tipos de transporte.\nCitoplasma (organelos membranosos, no membranosos, inclusiones) y núcleo (cromatina y cromosomas).Diferencias entre la célula animal y vegetal.\n",
+          "drive": "https://drive.google.com/file/d/19VQbNKQIbND8x0acSq_ahGE3sE3sgOOS/preview"
+        }
+      ]
+    },
+    {
+      "name": "Habilidad Lógico -Matemática",
+      "classes": [
+        {
+          "title": "SEMANA 18: PROBLEMAS DE REGULARIDAD, EQUIVALENCIA Y CAMBIO II",
+          "description": "Inductivo numérico\nInductivo verbal\nCronometría\n",
+          "drive": "https://drive.google.com/file/d/18B5l-4Evi1uVjQhd9b_wSQyldaoUB78I/preview"
+        },
+        {
+          "title": "SEMANA 17: PROBLEMAS DE REGULARIDAD, EQUIVALENCIA Y CAMBIO I",
+          "description": "Calendarios\nTraslados y trasvases\nFrecuencia de sucesos\n",
+          "drive": "https://drive.google.com/file/d/1QMEI_LcKsFWuBAzLFX7OqXY1Tec4hyJX/preview"
+        },
+        {
+          "title": "SEMANA 16: PROBLEMAS DE INFERENCIA LÓGICA Y CERTEZA II",
+          "description": "Situaciones deportivas\nDeducción simple y deducción compuesta (Silogismo - orden de información con conectores)\nLazos familiares\nProblemas de Certezas\n",
+          "drive": "https://drive.google.com/file/d/1xg3xF_Kv_uB_ykCOultj6ruBJNXkzDbs/preview"
+        },
+        {
+          "title": "SEMANA 15: PROBLEMAS DE INFERENCIA LÓGICA Y CERTEZA I",
+          "description": "Ordenamiento de información\nVerdades y mentiras\nDiagrama de flujo\nSuficiencia de datos (con 2 y con 3 datos)\n",
+          "drive": "https://drive.google.com/file/d/1A8Q5YCdT-OQIgCGMmTlZyRx0E3qn7KuH/preview"
+        },
+        {
+          "title": "SEMANA 14: PROBLEMAS DE CANTIDAD II Y PLANTEO DE ECUACIONES",
+          "description": "Máximos y mínimos\nPesadas y balanzas (Incluir con ecuaciones)\nPlanteo de Ecuaciones (razones y proporciones)\n",
+          "drive": "https://drive.google.com/file/d/1SHu5kqmGOBlf64FZjIckhidwkIixUh-n/preview"
+        },
+        {
+          "title": "SEMANA 13: PROBLEMAS DE CANTIDAD ",
+          "description": "Arreglos numéricos (incluye cuadrados mágicos)\nSeccionamientos y cortes\nProblemas sobre dados\nInterpretación de gráficos estadísticos\n",
+          "drive": "https://drive.google.com/file/d/1yMqP7WqN1bbYKe9ZXyrXgAzCC0FwZYd4/preview"
+        },
+        {
+          "title": "SEMANA 12: RUEDAS, POLEAS, ENGRANAJES Y SUFICIENCIA DE DATOS",
+          "description": "Ruedas y poleas.\nProblemas con engranajes.\nSuficiencia de datos.",
+          "drive": "https://drive.google.com/file/d/1-_pzOBw0eUqxP6fSRyqc_qnlYbQa9ROb/preview"
+        },
+        {
+          "title": "SEMANA 11: RUTAS Y TRAYECTORIAS Y PUNTOS CARDINALES",
+          "description": "Rutas y trayectorias en caminos dirigidos .\nRutas y trayectorias en caminos no dirigidos.\nPuntos cardinales.\n",
+          "drive": "https://drive.google.com/file/d/1dhFKAGxfoozIoMN1lWnt7XX5GtRC8Vyk/preview"
+        },
+        {
+          "title": "SEMANA 10: TRAZO DE FIGURAS, ROTACIÓN Y TRASLACIÓN DE FIGURAS",
+          "description": "Cálculo de recorridos mínimos sin condición.\nCálculo de recorridos mínimos con condición.\nRotación y traslación de figuras.",
+          "drive": "https://drive.google.com/file/d/1bHyhM1M-x0oZV5TAD-6pJ3gN6SQ9qgNS/preview"
+        },
+        {
+          "title": "SEMANA 9: FRECUENCIA DE SUCESOS, SIMETRÍA Y REFLEXIONES ",
+          "description": "Problemas sobre cortes y estacas.\nProblemas sobre pastillas y disparos.\nSimetría y reflexiones.",
+          "drive": "https://drive.google.com/file/d/1KT7RqfBUo6YmtSrbkyalAwmwnDvXAyQu/preview"
+        },
+        {
+          "title": "SEMANA 8: CRONOMETRÍA",
+          "description": "Problemas sobre campanadas.\nProblemas sobre tiempo transcurrido y por transcurrir.\nProblemas sobre adelantos y atrasos.\nProblemas sobre manecillas de un reloj.",
+          "drive": "https://drive.google.com/file/d/1KifjQZCYXv3wBOb8LvRGE-T2lJ6jIyNL/preview"
+        },
+        {
+          "title": "SEMANA 7: CALENDARIOS",
+          "description": "Problemas sobre variación de días.\nProblemas sobre variación de meses.\nProblemas sobre variación de años.",
+          "drive": "https://drive.google.com/file/d/1R9WRskRSb3nKT2KNed4M0xU3n-Ixpz7A/preview"
+        },
+        {
+          "title": "SEMANA 6: ARREGLOS NÚMERICOS",
+          "description": "Problemas diversos.\nCuadrados mágicos.",
+          "drive": "https://drive.google.com/file/d/1hBwoeBe-13nLZVjvS9tpo8i6jbYnJ5O5/preview"
+        },
+        {
+          "title": "SEMANA 5: INDUCTIVO NUMÉRICO Y VERBAL",
+          "description": "Aplicación en arreglos numéricos.\nAplicación en arreglos gráficos.\nAplicación en arreglos de letras.",
+          "drive": "https://drive.google.com/file/d/1yGAxHQy3prhVQa_-S5F3Jii5WK-xSEIx/preview"
+        },
+        {
+          "title": "SEMANA 4: VERDADES Y MENTIRAS Y CERTEZAS",
+          "description": "Problemas con proposiciones contradictorias.\nProblemas aplicando el método de suposición.\nProblemas diversos sobre certezas.",
+          "drive": "https://drive.google.com/file/d/1bq-fYrhiALI9Cqq0LltJDHoE8FbDwIpd/preview"
+        },
+        {
+          "title": "SEMANA 3: LAZOS FAMILIARES Y ORDENAMIENTO DE INFORMACIÓN",
+          "description": "Identificación de parentesco\nCantidad mínima de personas.\nOrdenamiento lineal.\nOrdenamiento circular.\nOrdenamiento por categorías.",
+          "drive": "https://drive.google.com/file/d/1nrGxtQ9P7-VdxfJZ5ri5vO_SWwK6pdWZ/preview"
+        },
+        {
+          "title": "SEMANA 2:  ELEMENTOS RECREATIVOS II",
+          "description": "Problemas sobre traslados.\nProblemas sobre situaciones deportivas.\nProblemas sobre pesadas y balanzas.",
+          "drive": "https://drive.google.com/file/d/1S3yZF-Sb17YOroZsh_Sz8V1MUO0_jUgz/preview"
+        },
+        {
+          "title": "SEMANA 1:  ELEMENTOS RECREATIVOS I",
+          "description": "Problemas con dados.\nProblemas sobre trasvases.\nSeccionamientos y cortes.",
+          "drive": "https://drive.google.com/file/d/1QTGpQlwdQhMQ2NkVAkyCNS2rFEAd1MEo/preview"
+        }
+      ]
+    },
+    {
+      "name": "Habilidad Verbal",
+      "classes": [
+        {
+          "title": "SEMANA 18: TEXTOS SEGÚN SU CONTENIDO: CIENTÍFICOS Y FILOSÓFICOS",
+          "description": "Esquemas de su concepto, características y método de análisis",
+          "drive": "https://drive.google.com/file/d/1JAphfeouSRCbf5RYL-3WJlXVj1aYVT6Z/preview"
+        },
+        {
+          "title": "SEMANA 17: TEXTOS SEGÚN EL FORMATO: DIALÉCTICOS Y CON GRÁFICO",
+          "description": "Esquemas de su concepto, estructura y criterios de análisis.",
+          "drive": "https://drive.google.com/file/d/1b4ps7i2WcLaPQYDSmilLE3TsOWK8OUPk/preview"
+        },
+        {
+          "title": "SEMANA 16: TEXTOS SEGÚN EL FORMATO: CONTINUOS Y DISCONTINUOS",
+          "description": "Esquemas de su concepto, estructura y criterios de análisis.",
+          "drive": "https://drive.google.com/file/d/1MAodzRqHkTweEGU0O5R_6wjhINB059Y8/preview"
+        },
+        {
+          "title": "SEMANA 15: TEXTOS SEGÚN LA INTENCIÓN COMUNICATIVA: EXPOSITIVOS Y ARGUMENTATIVOS",
+          "description": "Esquemas de su concepto, características y estructura.",
+          "drive": "https://drive.google.com/file/d/1OaPGIa4eHPIKoiL6wCZP3BOGEN7lfjM1/preview"
+        },
+        {
+          "title": "SEMANA 14: TIPOLOGÍA DE PREGUNTAS DE COMPRENSIÓN LECTORA II",
+          "description": "Esquemas de las preguntas por inferencia y   extrapolación; punto de\ncoincidencia y discrepancia.\n",
+          "drive": "https://drive.google.com/file/d/1HUMZOhHFruTuNdj_mUew_0_yxclp3LPP/preview"
+        },
+        {
+          "title": "SEMANA 13: TIPOS DE PREGUNTAS DE COMPRENSIÓN LECTORA I",
+          "description": "Esquemas de las preguntas por jerarquía textual, sentido contextual y\nrelaciones intertextuales.\n",
+          "drive": "https://drive.google.com/file/d/1f8riTNFFkdFTczS8uMotlZGBeZlH8NCQ/preview"
+        },
+        {
+          "title": "SEMANA 12: PRÁCTICA INTEGRAL TIPO EXAMEN DE ADMISIÓN UNMSM",
+          "description": "Ejercicios de comprensión lectora tipo DECO.\nPráctica dirigida.\nEjercicio de léxico N.°10 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1DnF4Li61tel3R3fANMeTgegtPSCFJtxY/preview"
+        },
+        {
+          "title": "SEMANA 11: TEXTOS SEGÚN SU CONTENIDO: FILOSÓFICOS",
+          "description": "Concepto, estructura y método de análisis.\nPráctica dirigida.\nEjercicio de léxico N.°11 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1pGG1RLHP4Jzr6oJ-rD24xvCsMTkpD6FL/preview"
+        },
+        {
+          "title": "SEMANA 10: TEXTOS SEGÚN SU CONTENIDO: CIENTÍFICOS",
+          "description": "Concepto, estructura y método de análisis.\nPráctica dirigida.\nEjercicio de léxico N.°10 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1AnVewaiPJlbYnbcu0uarZoH__FfHLUWf/preview"
+        },
+        {
+          "title": "SEMANA 9: TEXTOS SEGÚN EL FORMATO: DIALÉCTICOS",
+          "description": "Concepto, estructura y criterios de análisis. \nPráctica dirigida.\nEjercicio de léxico N.°9 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1BcOW-BCd-JccHbnoFzV_xhnPREnX8_TZ/preview"
+        },
+        {
+          "title": "SEMANA 8: TEXTOS SEGÚN EL FORMATO: CON GRÁFICO (MIXTOS)",
+          "description": "Concepto, estructura y criterios de análisis.\nPráctica dirigida.\nEjercicio de léxico N.°8 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1x3F_1uSJPqDrLqaZOIjcZjZwFJ2Cuu9l/preview"
+        },
+        {
+          "title": "SEMANA 7: TEXTOS SEGÚN EL FORMATO: CONTINUOS Y DISCONTINUOS",
+          "description": "Concepto, estructura y criterios de análisis.\nPráctica dirigida.\nEjercicio de léxico N.°7 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1qaj-cVrpHS49iGvyOYuwvnD5Hln02L9Q/preview"
+        },
+        {
+          "title": "SEMANA 6: TEXTOS SEGÚN LA INTENCIÓN COMUNICATIVA: ARGUMENTATIVOS",
+          "description": "Concepto, características y estructura.\nPráctica dirigida.\nEjercicio de léxico N.°6 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1WXCXojMwOxdr4Q-_pQnC02QvePpQI5yX/preview"
+        },
+        {
+          "title": "SEMANA 5: TEXTOS SEGÚN LA INTENCIÓN COMUNICATIVA: EXPOSITIVOS",
+          "description": "Concepto, características y estructura.\nPráctica dirigida.\nEjercicio de léxico N.°5 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1kNZYWUfjAggLq66oka8KeSTIERqKLJJe/preview"
+        },
+        {
+          "title": "SEMANA 4: TIPOLOGÍA DE PREGUNTAS DE COMPRENSIÓN LECTORA II",
+          "description": "Preguntas por inferencia y extrapolación. \nPráctica dirigida.\nEjercicio de léxico N.°4 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1f-9AbOtfw7LB115cy-Y_7qBLLfIbaI7L/preview"
+        },
+        {
+          "title": "SEMANA 3: TIPOS DE PREGUNTAS DE COMPRENSIÓN LECTORA I",
+          "description": "Preguntas por jerarquía textual, sentido contextual y relaciones intertextuales. \nPráctica dirigida.\nEjercicio de léxico N.°3 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1vtXa-H5T647sDFIaC9ofac5GAftZku3X/preview"
+        },
+        {
+          "title": "SEMANA 2: MÉTODO Y TÉCNICAS DE LECTURA",
+          "description": "Método Laser y técnicas de subrayado y sumillado.\nPráctica dirigida.\nEjercicio de léxico N.°2 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1LSgcRGATEK35MWYInXHWMuE0nINoN_pr/preview"
+        },
+        {
+          "title": "SEMANA 1: COMPRENSIÓN LECTORA: LA JERARQUÍA TEXTUAL",
+          "description": "Definición y método para establecer: Tema, Tema Central e Idea Principal.\nPráctica dirigida.\nEjercicio de léxico N.°1 (10 palabras).",
+          "drive": "https://drive.google.com/file/d/1IvOPB0pkT1pBUCbqjTK9uv-tKL_ZAgXb/preview"
+        }
+      ]
+    },
+    {
+      "name": "Lenguaje",
+      "classes": [
+        {
+          "title": "SEMANA 18: ORACIÓN SIMPLE",
+          "description": "Reconocimiento del sujeto\nClases de sujeto\nReconocimiento de atributo, predicativo, circunstancial\nReconocimiento de objetos directo e indirecto\n",
+          "drive": "https://drive.google.com/file/d/1jBGEdRtkSLhNqLlv08GjLGPhwNO7A1Mj/preview"
+        },
+        {
+          "title": "SEMANA 17: FRASE VERBAL",
+          "description": "Accidentes: modo y aspecto\nClasificación morfológica: regulares, irregulares, impersonales\nClasificación sintáctica: copulativos, transitivos, intransitivos, pronominales\nReconocimiento de perífrasis y uso del gerundio\n",
+          "drive": "https://drive.google.com/file/d/19XvYzR1uQhf-umhsMjChBWrfWnZ5-prY/preview"
+        },
+        {
+          "title": "SEMANA 16: USO DE MAYÚSCULAS Y SIGNOS DE PUNTUACIÓN",
+          "description": "Mayúsculas en apellidos, apelativos, lugares, festividades, instituciones, \nMayúsculas en acontecimientos, premios, signos zodiacales, libros sagrados, obras de creación\nUso de la coma: tipos\nUso del punto y coma, y dos puntos\n",
+          "drive": "https://drive.google.com/file/d/1rKsaDkH9gHBvEikVzEedyQj2a1kOyRgW/preview"
+        },
+        {
+          "title": "SEMANA 15: SÍLABA Y ACENTUACIÓN ESCRITA",
+          "description": "Reconocimiento de diptongo, triptongo y hiato\nSeparación silábica\nAcentuación general: palabras simples y complejas\nAcentuación especial: diacrítica, diacrítica enfática y robúrica\n",
+          "drive": "https://drive.google.com/file/d/1bcBfFJAl-0HB3Pxzw8NaLBazhp00KZV9/preview"
+        },
+        {
+          "title": "SEMANA 14: SEMÁNTICA Y MORFOLOGÍA",
+          "description": "Significado denotado y connotado, contexto y situación\nRelaciones semánticas: polisemia, homonimia, antonimia, de inclusión\nClases de morfemas: derivado y flexivo. Alomorfos\nDerivación, composición, parasíntesis, acortamiento\n",
+          "drive": "https://drive.google.com/file/d/1nZg43WF0qHs2ZNKq6HB0bhwRajMlqmVI/preview"
+        },
+        {
+          "title": "SEMANA 13: TEORÍA LINGÜÍSTICA",
+          "description": "Clases de comunicación: verbal y no verbal\nLenguaje: funciones, planos \nVariación lingüística: dialecto\nFonología: función distintiva del fonema, relación fonema-grafema\nPreguntas tipo\n",
+          "drive": "https://drive.google.com/file/d/15_sJe17cFCfZkLWN0_QxwSfwX-O-eoSG/preview"
+        },
+        {
+          "title": "SEMANA 12: SINTAXIS III: ORACIÓN COMPUESTA SUBORDINADA",
+          "description": "Oración compuesta subordinada adjetiva.\nOración compuesta subordinada adverbial.\nOración compuesta subordinada sustantiva: sujeto, OD, atributo.",
+          "drive": "https://drive.google.com/file/d/1OqzgkZDLnkuy_4p1vQOeehg3yu7DhYfY/preview"
+        },
+        {
+          "title": "SEMANA 11: SINTAXIS II: CONCORDANCIA Y ORACIÓN COMPUESTA COORDINADA ",
+          "description": "Concordancia nominal. \nConcordancia verbal .\nReconocimiento de oración simple y compuesta.\nOración compuesta yuxtapuesta: reconocimiento.\nOración compuesta conjuntiva: reconocimientos de los tipos.",
+          "drive": "https://drive.google.com/file/d/1HHHnLamzrS3-p-5YGXH9-oy4cysEpbdd/preview"
+        },
+        {
+          "title": "SEMANA 10: SINTAXIS I: ORACIÓN SIMPLE",
+          "description": "Ejercicios de clases de oraciones.\nSujeto: reconocimiento y clases.\nPredicado: nominal y verbal.\nComplementos: reconocimiento del OD, OI.\nComplementos: reconocimiento del  agente, predicativo, circunstancial. ",
+          "drive": "https://drive.google.com/file/d/1q0Rg0ALNKg0eJgrfwMjS4Yv4zXbpxGMM/preview"
+        },
+        {
+          "title": "SEMANA 9: PALABRAS INVARIABLES",
+          "description": "Adverbio: reconocimiento y usos.\nPreposición: reconocimiento y dequeísmo.\nConjunciones: reconocimiento y usos.",
+          "drive": "https://drive.google.com/file/d/1-hLouqMc_fDnu3Q8cFS3qHQNduAOMpFw/preview"
+        },
+        {
+          "title": "SEMANA 8: FRASE VERBAL",
+          "description": "Accidentes del verbo: modo y aspecto.\nClases de verbo: regular e irregular; transitivos e intransitivos; impersonal.\nUso de los principales verbos donde se yerran: satisfacer, doler, prever, caber, etc.\nUso del gerundio.",
+          "drive": "https://drive.google.com/file/d/1EZXRf_6YuoUf9U_cJKNfQzpXJYeuqxHg/preview"
+        },
+        {
+          "title": "SEMANA 7: FRASE NOMINAL II",
+          "description": "Determinantes:  características, reconocimiento.  \nTipos de determinantes y reconocimiento: cuantificadores y los nominales.  \nUso normativo de los determinantes.  \nPronombre:  características, la correferencia, pronombres determinativos.   \nLos pronombres personales: su reconocimiento, su normatividad.  ",
+          "drive": "https://drive.google.com/file/d/1tIoE2mfhWH-f4qr07ogxo45Yz22QWuLZ/preview"
+        },
+        {
+          "title": "SEMANA 6: FRASE NOMINAL I",
+          "description": "El sustantivo: reconocimiento de sustantivos (cantidad).\nEl sustantivo: reconocimiento (concreto, abstracto, colectivo).\nEl adjetivo, características  y tipos. \nGrados del adjetivo: superlativo, comparativo y positivo.\nEl adjetivo en función de MD, atributo y predicativo.",
+          "drive": "https://drive.google.com/file/d/1us9zEZOIdU7hvFXUPTbb3MauBnV6nJqc/preview"
+        },
+        {
+          "title": "SEMANA 5: MORFOLOGÍA Y FORMACION DE PALABRAS",
+          "description": "El morfema: clases (lexical y gramatical); el morfema simple ymorfema amalgama. \nEl alomorfo. \nPrincipales afijos y sus usos: prefijos, sufijos.\nProceso formativo de     las palabras:  derivación, composición y parasíntesis.\nLa oronimia y el acortamiento.\n",
+          "drive": "https://drive.google.com/file/d/1M18R-s1_4yy2_AiMJ1we1m0jwPlFwX_C/preview"
+        },
+        {
+          "title": "SEMANA 4:  SEMÁNTICA Y SONIDOS DEL LENGUAJE",
+          "description": "-Sentidos de la palabra, relaciones de palabras: hiperonimia, hiponimia, polisemia, antonimia, homonimia, paronimia.\n-Fonemas su función distintiva Fonemas suprasegmentales (acento y entonación).\n-Reconcomiendo de pares mínimos de las consonantes por el punto de articulación, por el modo y por las cuerdas vocales.\n-Reconcomiendo de pares mínimos de las vocales \n\n",
+          "drive": "https://drive.google.com/file/d/11sDP4CBKnHfv1BT_ljT5uSS1LBqg2M4_/preview"
+        },
+        {
+          "title": "SEMANA 3: TEORÍA LINGÜÍSTICA",
+          "description": "Lenguaje, funciones .\nLengua y habla: características e interrelación.\nOrigen del castellano: lenguas romances, préstamos lingüísticos.\nRealidad lingüística: familias lingüísticas, lenguas y variedades, lenguas amerindias.",
+          "drive": "https://drive.google.com/file/d/1dh1RjBfuiNQ6bxGubE9ge-6IznNjKlBm/preview"
+        },
+        {
+          "title": "SEMANA 2: ORTOGRAFÍA II",
+          "description": "-Uso de las minúsculas: gentilicios, lenguas, cargos, etc.\n-Uso de las mayúsculas: nombres propios, instituciones, topónimos, hidrónimos, zonas geográficas, acontecimientos históricos, fechas cívicas, etc.  \n-Uso de los signos de puntuación: la coma y sus tipos \n-Uso de los signos de puntuación: el punto y coma \n-Uso de los signos de puntuación: los dos puntos \n",
+          "drive": "https://drive.google.com/file/d/1GOWUx2ToneZLx6v1n2MC4acq_TS8DND2/preview"
+        },
+        {
+          "title": "SEMANA 1: LA SÍLABA Y ORTOGRAFÍA I",
+          "description": "La sílaba, estructura, clases.\nSecuencia vocálica: diptongo, triptongo y hiato; separación silábica. \nRegla general: acentuación en palabras simples y formas complejas .\nRegla especial: hiato acentual, y diacrítica. \nAcentuación de extranjerismos .\n\n\n\n",
+          "drive": "https://drive.google.com/file/d/1UxB7WYY6O6W1bXH2Y3WRfQoZUPPdm1YR/preview"
+        }
+      ]
+    },
+    {
+      "name": "Literatura",
+      "classes": [
+        {
+          "title": "SEMANA 18: LITERATURA PERUANA III",
+          "description": "Narrativa de la generación del 50: características\nLos gallinazos sin plumas: características, argumento, temas\nLa ciudad y los perros: características, argumento, temas\nConversación en La Catedral: características, argumento, temas\n",
+          "drive": "https://drive.google.com/file/d/1cXjQeiEG_CPtAOOFmg-URw2mCCZ5uQN3/preview"
+        },
+        {
+          "title": "SEMANA 17: LITERATURA PERUANA II",
+          "description": "Indigenismo: características, representantes y antecedentes\nEl mundo es ancho y ajeno: características, argumento, temas\nLos ríos profundos: características, argumento, temas\n",
+          "drive": "https://drive.google.com/file/d/1nfs1WC0Z5QS-mOeo1zt6Lk9_JZCicneH/preview"
+        },
+        {
+          "title": "SEMANA 16: LITERATURA PERUANA I",
+          "description": "El posmodernismo: características\nEl caballero Carmelo: características, argumento, temas\nSimbólicas: características y temas\nLos heraldos negros y Trilce : características y temas\nPoemas humanos: características y temas\n",
+          "drive": "https://drive.google.com/file/d/1lFiBssWXJw3-oFdK-uFzHWspQ4MTD3Cx/preview"
+        },
+        {
+          "title": "SEMANA 15: LITERATURA UNIVERSAL III",
+          "description": "Realismo: características\nCrimen y castigo: características argumento y tema\nVanguardismo: características\nLa metamorfosis: características argumento y tema\n",
+          "drive": "https://drive.google.com/file/d/1-mWW826Qa6vnN45FaeMzxsStd1fVbyt0/preview"
+        },
+        {
+          "title": "SEMANA 14: LITERATURA UNIVERSAL II",
+          "description": "Renacimiento: características\nRomeo y Julieta: características y temas\nRomanticismo: características\nLas cuitas del joven Werther: características, argumento y temas\n",
+          "drive": "https://drive.google.com/file/d/1Cs_9Golgw2Dj4CVBuyXLs6-clzHwi8di/preview"
+        },
+        {
+          "title": "SEMANA 13: LITERATURA UNIVERSAL I",
+          "description": "Clasicismo: características\nIlíada: características, argumento y temas\nOdisea: características, argumento y temas\nTeatro griego: características\nEdipo rey: Características y temas\n",
+          "drive": "https://drive.google.com/file/d/1ZHTsZqnXYjBuYmRvty6mTyxROSsXxwi6/preview"
+        },
+        {
+          "title": "SEMANA 12: LITERATURA PERUANA IV (SIGLO XX)",
+          "description": "Características de la narrativa urbana: Análisis de Los gallinazos sin plumas.\nAnálisis de La ciudad y los perros y Conversación en La Catedral.\n\n",
+          "drive": "https://drive.google.com/file/d/1LqKufPNpixh8jK2_x6e7Q0RsZjVBr_FP/preview"
+        },
+        {
+          "title": "SEMANA 11:  LITERATURA PERUANA III (SIGLO XX)",
+          "description": "Características del indigenismo : Análisis de El mundo es ancho y ajeno.\nAnálisis de Los ríos profundos.\n\n",
+          "drive": "https://drive.google.com/file/d/1_dcOCG_S6PXQ-vnIylV7K6fG9V0YQiQ9/preview"
+        },
+        {
+          "title": "SEMANA 10:  LITERATURA PERUANA II (SIGLO XX)  ",
+          "description": "Características del posmodernismo: análisis de Simbólicas. Análisis de El Caballero Carmelo\nCaracterísticas del vanguardismo: Análisis de Los heraldos negros, Trilce, Poemas  humanos        \n\n",
+          "drive": "https://drive.google.com/file/d/1bU8Yx5_buQZeYPDwpoPUbumM1P6Lb9ZT/preview"
+        },
+        {
+          "title": "SEMANA 9:  LITERATURA PERUANA I ( REPÚBLICA)",
+          "description": "Características del costumbrismo: Manuel Ascencio Segura: Ña catita.\nCaracterísticas del Romanticismo: Análisis de Tradiciones peruanas.\nCaracterísticas del realismo:  Análisis de El discurso en el Politeama y Aves sin nido.\n\n",
+          "drive": "https://drive.google.com/file/d/1lwPgxnieTiWX-XHZtKjdwHnrS8khV-Wg/preview"
+        },
+        {
+          "title": "SEMANA 8:  LITERATURA HISPANOAMERICANA  II  ",
+          "description": "Análisis de El reino de este mundo.\nAnálisis de Ficciones.\nAnálisis de Cien años de soledad.                                                                                                                            ",
+          "drive": "https://drive.google.com/file/d/1iX_S1Faz2HAYSxyLOE4MK1n2NGX-uWUP/preview"
+        },
+        {
+          "title": "SEMANA 7:  LITERATURA HISPANOAMERICANA  I",
+          "description": "Características del Modernismo: análisis de Azul.\nAnálisis de Veinte poemas de amor y  una canción…     \n\n",
+          "drive": "https://drive.google.com/file/d/11-BvKzuQQS8qsB0faidFfGyx7Ulq-mz0/preview"
+        },
+        {
+          "title": "SEMANA 6: LITERATURA ESPAÑOLA II",
+          "description": "Características del teatro:  análisis de La vida es sueño.\nSiglo XIX: Romanticismo. Gustavo Adolfo Bécquer: Rimas y Leyendas.\n\n",
+          "drive": "https://drive.google.com/file/d/1AXqIsBkoPrAsH5BPkvkADqSMeDAs4O8E/preview"
+        },
+        {
+          "title": "SEMANA 5: LITERATURA ESPAÑOLA I   ",
+          "description": "Características del Poema de Mío Cid.\nBarroco: Narrativa. Miguel de Cervantes Saavedra: El ingenioso hidalgo don Quijote de La Mancha.\n\n",
+          "drive": "https://drive.google.com/file/d/1b8RdCgvzUOW0biwPnX_oauIIpj0GRL4x/preview"
+        },
+        {
+          "title": "SEMANA 4:  LITERATURA MODERNA Y CONTEMPORÁNEA  ",
+          "description": "Características realismo: análisis de Crimen y castigo.   \nCaracterísticas del vanguardismo: análisis de La metamorfosis.\n\n",
+          "drive": "https://drive.google.com/file/d/15V25sR8psJgmxKoqsRBE7wCIIdofn7pF/preview"
+        },
+        {
+          "title": "SEMANA 3:  LITERATURA MODERNA   ",
+          "description": "Características del Renacimiento: análisis de Romeo y Julieta.  \nCaracterísticas del Romanticismo: análisis de Las penas del joven Werther.\n\n",
+          "drive": "https://drive.google.com/file/d/1uami04wa3sF3lXXydTr_ilW4OP70mV5I/preview"
+        },
+        {
+          "title": "SEMANA 2: LITERATURA ANTIGUA  ",
+          "description": "Características de la épica griega: análisis de la Odisea y la Ilíada.\nOrigen y desarrollo de la tragedia griega: análisis de Edipo rey.\n",
+          "drive": "https://drive.google.com/file/d/1ERs4nnYLhTN_9R2-p_rZYAVV-0e_qkiT/preview"
+        },
+        {
+          "title": "SEMANA 1: TEORÍA LITERARIA  ",
+          "description": "La literatura, funciones.\nLos géneros literarios: la lírica, la narrativa y el teatro.  \nLas figuras literarias: metáfora, símil, hipérbole, hipérbaton, anáfora, epíteto.  ",
+          "drive": "https://drive.google.com/file/d/1CIII3Npgsj-kkS7kTwGsiaPaOxl1hOfu/preview"
+        }
+      ]
+    },
+    {
+      "name": "Historia",
+      "classes": [
+        {
+          "title": "SEMANA 17: APOGEO Y CRISIS DEL ESTADO OLIGÁRQUICO. ",
+          "description": "República Aristocrática: características principales\nOncenio: principales características\nOchenio: principales características\nGobierno de las Fuerzas Armadas: Juan Velasco (reforma agraria) y Morales Bermúdez (constitución de 1979). \n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 14: REVOLUCIÓN INDUSTRIAL, REVOLUCIÓN FRANCESA Y ERA NAPOLEÓNICA ",
+          "description": "Revolución Industrial: causas, características y consecuencias \nRevolución francesa: causas, Ilustración\nEra Napoleónica: consulado, imperio y restauración absolutista. Liberalismo y nacionalismo. \n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 13: DOMINIO ESPAÑOL EN EL PERÚ ",
+          "description": "Causas de caída del incanato \nVirreinato: orígenes, reformas toledanas y características\nReformas Borbónicas:  orígenes, principales reformas económicas y políticas\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 12: OCHENIO Y GOBIERNO DE LAS FUERZAS ARMADAS",
+          "description": "Ochenio. \nFase reformista. \nFase contrarreformista.",
+          "drive": "https://drive.google.com/file/d/1RwjESdBzq4cEYI9P0xQnKHJ3n6sbm8WO/preview"
+        },
+        {
+          "title": "SEMANA 11:  GUERRA FRÍA",
+          "description": "Causas. \nCaracterísticas .\nProceso.\nConsecuencias. ",
+          "drive": "https://drive.google.com/file/d/1SJ-gIdcwM8a8il-DrsmHnp78WoeXtoh4/preview"
+        },
+        {
+          "title": "SEMANA 10: REPUBLICA ARISTOCRÁTICA Y ONCENIO",
+          "description": "Antecedentes.\nEconomía. \nSociedad. \nPolítica y cultura.",
+          "drive": "https://drive.google.com/file/d/1H9fY1rdwd5RlQreoOxaWpAE9uiacrXAm/preview"
+        },
+        {
+          "title": "SEMANA 9:  PRIMERA GUERRA MUNDIAL",
+          "description": "Antecedentes: imperialismo (definición) características, paz Armada. \nCausas.\nProceso.",
+          "drive": "https://drive.google.com/file/d/1-5txoNIb0ioyxFVezAb5SnH_fZo378Lu/preview"
+        },
+        {
+          "title": "SEMANA 8: PRIMER MILITARISMO ",
+          "description": "Republica Temprana.\nProsperidad falaz.",
+          "drive": "https://drive.google.com/file/d/1maK5uq1fR1o4p3wmyx1-a3X-2h-fvOi1/preview"
+        },
+        {
+          "title": "SEMANA 7: CORRIENTES LIBERTADORAS",
+          "description": "Antecedentes y causas.\nCorriente libertadora del sur.\nPrimer Congreso Peruano.\nCorriente libertadora del norte.",
+          "drive": "https://drive.google.com/file/d/12ToZv3Qk9MxXjpkmlu6V66esp5UtjMq7/preview"
+        },
+        {
+          "title": "SEMANA 6: REVOLUCIÓN FRANCESA",
+          "description": "Causas.\nFase monarquista y fase republicana.\nImperio napoleónico: características.\nConsecuencias. ",
+          "drive": "https://drive.google.com/file/d/19TkUONtPAULZjV0HqP8ZbVLCrI2fIDZu/preview"
+        },
+        {
+          "title": "SEMANA 5: VIRREINATO",
+          "description": "Reformas Toledanas.\nEconomía.  \nSociedad .\nPolítica y Cultura.",
+          "drive": "https://drive.google.com/file/d/1raPrSd9WSAueL3yOqIMRzhRUzz5aEkyN/preview"
+        },
+        {
+          "title": "SEMANA 4: INCAS",
+          "description": "Economía. \nSociedad.  \nPolítica y cultura .\nCausas de la caída del Tahuantinsuyo .",
+          "drive": "https://drive.google.com/file/d/103e-Lc4nm_rEMFlYUXg4RHmLFxAskewN/preview"
+        },
+        {
+          "title": "SEMANA 3: EDAD MEDIA Y FEUDALISMO",
+          "description": "Alta edad Media.\nPlena Edad Media.\nBaja Edad Media.",
+          "drive": "https://drive.google.com/file/d/1WQsGH_KgELqFgCu27XZNP_v9rnloGiw6/preview"
+        },
+        {
+          "title": "SEMANA 2: GRECIA ",
+          "description": "Periodo Arcaico.\nPeriodo Clásico-cultura.\nPeriodo helenístico.",
+          "drive": "https://drive.google.com/file/d/1msMrC8donMm1sN1DckgXymOQPpy4Oyuw/preview"
+        },
+        {
+          "title": "SEMANA 1: COMUNIDAD PRIMITIVA",
+          "description": "Paleolítico. \nRevolución neolítica y consecuencias.\nComunidad primitiva en el Perú.",
+          "drive": "https://drive.google.com/file/d/1QqvJ88hhmXdEalWwTSHwTCgCfYQDQP8R/preview"
+        }
+      ]
+    },
+    {
+      "name": "Geografía",
+      "classes": [
+        {
+          "title": "SEMANA 18: GEOGRAFIA MUNDIAL   ",
+          "description": "América, Europa y Asia.  Características de los principales sistemas orográficos.\nAmérica, Europa y Asia.  Características de los principales sistemas hidrográficos.\nPrincipales países y capitales de Europa, Asia y América \n",
+          "drive": "https://drive.google.com/file/d/19h-gnDrjdcdqcYanSKsEQHLwgOFrKP9b/preview"
+        },
+        {
+          "title": "SEMANA 17: POBLACIÓN PERUANA - GEOGRAFÍA POLÍTICA ",
+          "description": "Indicadores demográficos del Perú: natalidad, mortalidad, tasa de crecimiento, densidad. Características. \nPirámide poblacional. Migración interna. Distribución demográfica por áreas de residencia.\nFronteras del Perú. Características. Descentralización y regionalización. Características. \n",
+          "drive": "https://drive.google.com/file/d/1rhIFv8_yk9U9iz23LmgY6AJb3gfG6fec/preview"
+        },
+        {
+          "title": "SEMANA 16: FENOMENOS Y DESASTRES",
+          "description": "Componentes de los desastres naturales: peligro, vulnerabilidad y riesgo. Características. \nPrincipales peligros o amenazas: huaicos, sequias, friajes, heladas, alud. Características. \nGestión de riesgos: prospectiva, correctiva y reactiva. Características. \n",
+          "drive": "https://drive.google.com/file/d/10LAv5a3GWUJ8wJ8W1UCFNuou7-wZ9EUZ/preview"
+        },
+        {
+          "title": "SEMANA 15: 11 ECORREGIONES – ANP ",
+          "description": "11 ecorregiones. Características. \nÁreas de uso indirecto: parque nacional, santuario nacional, santuario histórico. Características. \nÁreas de uso directo: reserva nacional, reserva comunal, reserva paisajística. Características. \nReservas de biosfera. Características y ubicación geográfica. \n",
+          "drive": "https://drive.google.com/file/d/1072eHo4ttuLxracWJ4uCnVby_ATuENuq/preview"
+        },
+        {
+          "title": "SEMANA 14: PROBLEMAS DE LOS RRNN - DESARROLLO SOSTENIBLE Y AGENDA 2030",
+          "description": "Desertificación y deforestación. Causas y características por región natural.\nDesarrollo sostenible. Definición y pilares\nAgenda 2030. Ejes centrales: paz, personas, prosperidad, planeta, alianzas\n",
+          "drive": "https://drive.google.com/file/d/1qJG6tCujjmBmIMezLr1vRX2lDhzlNbLN/preview"
+        },
+        {
+          "title": "SEMANA 13: GEOMORFOLOGÍA DEL PERÚ",
+          "description": "Relieve costero: características y formas de aprovechamiento de los valles, pampas, y tablazos.\nRelieve andino: características y formas de aprovechamiento de los valles interandinos, pasos y mesetas altoandinas\nRelieves de la Selva: características y formas de aprovechamiento de los valles longitudinales, pongos, tahuampas, restingas, barrizales y altos.\n",
+          "drive": "https://drive.google.com/file/d/1SY13SMT3FS9s2H7WgYV6Q2PrHv7noAXT/preview"
+        },
+        {
+          "title": "SEMANA 12: GEOGRAFÍA POLÍTICA",
+          "description": "Situación geográfica (mundial y continental) y estratégica del territorio peruano.\nSituación fronteriza actual del territorio peruano: tratados, tipos de frontera (natural y artificial) y espacios fronterizos.\nCaracterísticas de la descentralización y niveles de unidades administrativas.",
+          "drive": "https://drive.google.com/file/d/1QdmFY-FHlAIwBiW8E67YezShWzpjMeKk/preview"
+        },
+        {
+          "title": "SEMANA 11: POBLACIÓN PERUANA",
+          "description": "Indicadores demográficos: población absoluta, densidad poblacional, tasa de natalidad, tasa de mortalidad y  fecundidad, tasa de crecimiento.\nEstructura de la población.\nCaracterísticas generales de la migración internas en el Perú: causas y consecuencias.\nDistribución de la población por región geográfica y zona de residencia.",
+          "drive": "https://drive.google.com/file/d/1xrkZpWX9WgdnMzl8dbENYIF7Zta08uM9/preview"
+        },
+        {
+          "title": "SEMANA 10: 8 REGIONES NATURALES",
+          "description": "Criterio de clasificación de las ocho regiones naturales.\nCaracterísticas de las ocho regiones: altitud, clima, relieve aprovechamiento.\nUbicación de las principales ciudades según altitud en cada región",
+          "drive": "https://drive.google.com/file/d/17vdnsctf1PieBJMTbEgewAfm-WN9HjkO/preview"
+        },
+        {
+          "title": "SEMANA 9: DESASTRES",
+          "description": "Componente de un desastre: peligro, vulnerabilidad y riesgo (ejemplos aplicativos).\nPrincipales desastres: aluvión, helada, sequia, inundación y friaje.\nGestión de riesgos de desastres: definición y tipos de gestión.",
+          "drive": "https://drive.google.com/file/d/1Q20_-n-2hHiGE_mWA_smFqIVWDAtxw5I/preview"
+        },
+        {
+          "title": "SEMANA 8: ÁREAS NATURALES PROTEGIDAS",
+          "description": "Clasificación de las ANP según su forma de aprovechamiento (directo - indirecto) y administración.\nPrincipales características de los parques nacionales, reserva nacional, santuarios nacionales e históricos, etc.\nReservas de biósfera en el Perú.",
+          "drive": "https://drive.google.com/file/d/1V_ei2-sVrzpgQX7MLMVrOg2OnJnUS85v/preview"
+        },
+        {
+          "title": "SEMANA 7: PROBLEMÁTICA DE LOS RRNN Y DESARROLLO SOSTENIBLE",
+          "description": "Desertificación: definición y causas por regiones en el Perú.\nDeforestación: definición y causas por regiones en el Perú.\nDesarrollo sostenible: definición, pilares. Agenda 2030.",
+          "drive": "https://drive.google.com/file/d/1oaRlehtBWe7iOloN2Ox5j5QFwypg5t8o/preview"
+        },
+        {
+          "title": "SEMANA 6: RELIEVE PERUANO",
+          "description": "Características y formas de aprovechamiento de los valles y pampas, \nCaracterísticas y formas de aprovechamiento de los valles interandinos y mesetas.\nRelieve de la selva: características y formas de aprovechamiento de los valles longitudinales y restingas.\n\n",
+          "drive": "https://drive.google.com/file/d/1mfop-y3BGiYNYtC3uovMBYE-Pr8GEikD/preview"
+        },
+        {
+          "title": "SEMANA 5: GEODINÁMICA EXTERNA",
+          "description": "Meteorización: física, química y biológica.\nRelieves modelados por erosión (degradación) y sedimentación: fluvial, glaciar, eólica, marina.\n\n",
+          "drive": "https://drive.google.com/file/d/1wGzW34mFQSR2YNIoBWRlLkYjdqxhry6N/preview"
+        },
+        {
+          "title": "SEMANA 4: GEODINÁMICA INTERNA",
+          "description": "Tectónica de Placas: convergencia. \nUbicación de las principales zonas sísmicas y volcánicas del planeta (cinturón de fuego del Pacífico).\nSismos: definición, componentes (hipocentro, epicentro), Ondas sísmicas (internas y superficiales) y escala (Richter y Mercalli).",
+          "drive": "https://drive.google.com/file/d/1Aq9XoA6pkV7xJuosyywxUS0IuGceDJT5/preview"
+        },
+        {
+          "title": "SEMANA 3: CLIMAS DEL PERÚ",
+          "description": "Tipos de climas y factores climáticos de la Costa: corrientes marinas, anticiclón (según JPV e INRENA).\nTipos de climas y factores climáticos de la Sierra: altitud, climas según pisos altitudinales (según JPV e INRENA).\nTipos de clima y factores climáticos de la Selva: Latitud (según JPV e INRENA).",
+          "drive": "https://drive.google.com/file/d/1dccqoWh0fRhfVFiySRqn6woY5MZYh_fQ/preview"
+        },
+        {
+          "title": "SEMANA 2: CALENTAMIENTO GLOBAL",
+          "description": "Diferencia entre Efecto invernadero y Calentamiento global.\nCausas, consecuencias y Efectos en el Perú.\nProtocolo de Kioto y Acuerdo de Paris.",
+          "drive": "https://drive.google.com/file/d/1Lu16nk3Nk-cQDgIJawp34iAb64f5uSAT/preview"
+        },
+        {
+          "title": "SEMANA 1: CARTOGRAFÍA",
+          "description": "-Características de las líneas geodésicas: Paralelos (características y su relación con las zonas climáticas), Los meridianos (características, meridiano de Greenwich)\n-Coordenadas geográficas: definición, latitud y longitud. Situaciones prácticas\n-Escala cartográfica: Definición, tipos, tamaños. Situaciones prácticas.",
+          "drive": "https://drive.google.com/file/d/1VYFBxBe2mbCDDqLKSY--IpCG1P1W0Ae5/preview"
+        }
+      ]
+    },
+    {
+      "name": "Economía y Cívica",
+      "classes": [
+        {
+          "title": "SEMANA 18: PODERES Y OCA",
+          "description": "PODER LEGISLATIVO Y EJECUTIVO. Estructura, atribuciones, relaciones entre poder legislativo y ejecutivo\nPODER JUDICIAL. Estructura y atribuciones.\nOCA: MP, Defensoría del Pueblo, Tribunal Constitucional y Órganos electorales \n",
+          "drive": "https://drive.google.com/file/d/1I_Tr2amtDtYYftbz8kY-XjzlkW-0fvsy/preview"
+        },
+        {
+          "title": "SEMANA 17: DERECHOS Y GARANTIAS CONSTITUCIONALES",
+          "description": "DERECHOS HUMANOS y CONSTITUCIONALES. Características y clasificación y declaración universal de los derechos humanos.\nMECANISMOS DE PROTECCION DE LOS DDHH. Comisión y la Corte Interamericana de los DDHH. \nONU (ASAMBLEA GENERAL, CONSEJO DE SEGURIDAD, ECOSCOC Y CORTE INTERNACIONAL DE JUSTICIA)\nGARANTIAS CONSTITUCIONALES. H. Corpus, Data y Acción de amparo Acción popular, de Cumplimiento y de Inconstitucionalidad. \n",
+          "drive": "https://drive.google.com/file/d/1e3wIZFCSDpUbUqO7xepx_uNAJn1068QO/preview"
+        },
+        {
+          "title": "SEMANA 16: AGREGADOS ECONÓMICOS E INTEGRACIÓN ECONÓMICA",
+          "description": "PBI. PBI por el método del gasto. PBI nominal y real. Crecimiento económico.\nPNB. IDH, PBI e YN per cápita. Desarrollo económico y su relación con la vivienda, educación, salud, etc.\nDeflactor del PBI.\nPrincipales bloques económicos y tratado de libre comercio \n",
+          "drive": "https://drive.google.com/file/d/1cmFefSWnEYw_dogcIkCvO6CJtH4tlW40/preview"
+        },
+        {
+          "title": "SEMANA 15: SECTOR EXTERNO",
+          "description": "TEORÍAS DEL COMERCIO INTERNACIONAL. Ventajas absolutas, comparativas, competitivas.\nTipo de cambio (fijo, flexible y administrado). Devaluación y revaluación. Depreciación y apreciación.\nRelación con la inflación. Dumping y Drawback  \nBALANZA DE PAGOS. Estructura (BCC, CF, FE, E y O)\nResultado de la BP y las variaciones de las RIN.\n",
+          "drive": "https://drive.google.com/file/d/1SKWHXh5jnLTW7SMLi81Sf7ejzjkmlyW1/preview"
+        },
+        {
+          "title": "SEMANA 14: SECTOR PÚBLICO",
+          "description": "SECTOR PÚBLICO. Fallas de mercado (externalidades y bienes públicos).\nSISTEMA TRIBUTARIO. Impuestos, Impuestos progresivos y regresivos. Base y presión tributaria. Evasión y elusión tributaria.\nCONCEPTOS RELACIONADOS: TEOREMA COASE, IMPUESTO PIGOUVIANO Y TRAGEDIA DE LOS COMUNES\nPRESUPUESTO PUBLICO. Ciclo, estructura presupuestaria.\n",
+          "drive": "https://drive.google.com/file/d/1MCYNoSIsoYgzUNBZDwROb8jWchrQg5yU/preview"
+        },
+        {
+          "title": "SEMANA 13: MERCADO",
+          "description": "MERCADO EN COMPETENCIA PERFECTA. Características y cómo se determina el precio.\nMERCADO EN COMPETENCIA IMPERFECTA. Monopolio, discriminación de precios, monopolio natural, oligopolio y competencia monopolísticas.\nOFERTA Y DEMANDA. Ley de la oferta, ley de demanda.\nEQUILIBRIO Y DESEQUILIBRIO EN EL MERCADO. Mecanismo de ajuste de los mercados. Ley de oferta y demanda. \nINTERVENCIÓN DEL ESTADO Y EXCEDENTES DE CONSUMIDOR Y PRODUCTOR.\n",
+          "drive": "https://drive.google.com/file/d/1QGtYP3KssmANVBEy0N2ycOQKMAlFlUDZ/preview"
+        },
+        {
+          "title": "SEMANA 12: ESTADO",
+          "description": "Poder legislativo: características, atribuciones.\nPoder ejecutivo: Característica y atribuciones del presidente.\nRelación entre sí: ministros interinos, interpelación, censura y disolución del congreso.",
+          "drive": "https://drive.google.com/file/d/1ps-4yuaMs1WToHCMwQkyQw9mvAdYHJUr/preview"
+        },
+        {
+          "title": "SEMANA 11: CONVIVENCIA DEMOCRÁTICA",
+          "description": "Valores y problemas de convivencia.\nDelitos: soborno interno e internacional, colusión, tráfico de influencia y peculado.\nMecanismo de solución del conflicto.\nDiversidad cultural: Definición, tradición, costumbre y patrimonio cultural.",
+          "drive": "https://drive.google.com/file/d/13WS0F0triuKHtW-fFMnktksOIdKs9kNz/preview"
+        },
+        {
+          "title": "SEMANA 10: DERECHOS HUMANOS ",
+          "description": "Características. \nDerechos constitucionales.\nDerechos del niño.\nSistema interamericano.",
+          "drive": "https://drive.google.com/file/d/1EUjmWY_9gyCk1ZxmEe8CBHBI2FQK4Uwc/preview"
+        },
+        {
+          "title": "SEMANA 9:  SECTOR EXTERNO",
+          "description": "Elementos del comercio exterior: Arancel, drawback y dumping.\nTipo de cambio.\nBalanza de pagos: Operaciones \nEstructura de la balanza",
+          "drive": "https://drive.google.com/file/d/19jssvBQ__OULM00nma4AzZ87x5eYvkEk/preview"
+        },
+        {
+          "title": "SEMANA 8:  AGREGADOS Y CICLOS ECONÓMICOS",
+          "description": "Método del gasto y clases del PBI.\nProducto nacional bruto.\nFases del ciclo económico.\nVariables cíclicas.",
+          "drive": "https://drive.google.com/file/d/1zAQFCraTfZEiEWzkyLEBC0Fx_84dwLT2/preview"
+        },
+        {
+          "title": "SEMANA 7: TEORÍA DE LA OFERTA Y EQUILIBRIO DE MERCADO",
+          "description": "Diferencia entre la oferta y cantidad ofertada.\nCambios de la oferta y cantidad ofertada.\nEquilibrios y ley de oferta y demanda.\nExcedente del productor.",
+          "drive": "https://drive.google.com/file/d/1b9EBx7H7V4SibAoRfMcOwlopHpSLlq0Y/preview"
+        },
+        {
+          "title": "SEMANA 6:  TEORÍA DE LA DEMANDA",
+          "description": "Diferencia entre la demanda y cantidad demandada.\nCambios de la demanda y cantidad demandada.\nElasticidad de la demanda: tipos.\nExcedente del consumidor.",
+          "drive": "https://drive.google.com/file/d/1mtq9t17A1_Rs6VWTMPmd37xWPE2qD9kf/preview"
+        },
+        {
+          "title": "SEMANA 5: MODELOS DE MERCADO",
+          "description": "Flujo circular de la economía.\nCompetencia perfecta.\nCompetencia imperfecta: monopolio. \nOligopolio y competencia monopolística.",
+          "drive": "https://drive.google.com/file/d/1Vs0NimI-H-ZNeOf0ZI_IIrhW60wKCkry/preview"
+        },
+        {
+          "title": "SEMANA 4: EMPRENDIMIENTO E INFORMALIDAD",
+          "description": "Formas de emprendimiento.\nHerramientas para el emprendimiento.\nCausas y características de la informalidad.\nEfectos de la formalidad e informalidad.",
+          "drive": "https://drive.google.com/file/d/15V_SPa75sVCbDMNpazSzP-uoxcdvlvuX/preview"
+        },
+        {
+          "title": "SEMANA 3: PRODUCCIÓN ",
+          "description": "Función de la producción a corto plazo.\nproductividad.\nCostos totales.\nCostos unitarios.",
+          "drive": "https://drive.google.com/file/d/11VirBWnwxlEf3VGS_wKO4QnNB8KEllTK/preview"
+        },
+        {
+          "title": "SEMANA 2: PRESUPUESTO FAMILIAR ",
+          "description": "Pirámide de Maslow y clases.\nBienes según su ingreso, relación entre sí y su precio.\nEsquema de ingresos, gastos y resultado.\nFunción consumo.",
+          "drive": "https://drive.google.com/file/d/1wkYtqpQKZyy9V6Vna3aPLwWeQ0wAk537/preview"
+        },
+        {
+          "title": "SEMANA 1: CIENCIA ECONÓMICA",
+          "description": "-Principios: Escasez, especialización, competencia, costo de oportunidad, incentivo, eficiencia, mano invisible y organización de producción.\n-Economía positiva y normativa (Políticas económicas) (Solo diferencia).\n-Nivel microeconómico y macroeconómico.",
+          "drive": "https://drive.google.com/file/d/1GimmofjlAQxLprmW8rml4O2dAX0Q-Ho3/preview"
+        }
+      ]
+    },
+    {
+      "name": "Filosofía",
+      "classes": [
+        {
+          "title": "SEMANA 18: TEORÍA DE LA ARGUMENTACIÓN II",
+          "description": "Identificación y reconocimiento de las falacias más notables.\nLa argumentación en la investigación científica.\n",
+          "drive": "https://drive.google.com/file/d/19g0gQP34GehNLpFkGP4cpaT8S2z0ZrHw/preview"
+        },
+        {
+          "title": "SEMANA 17: TEORÍA DE LA ARGUMENTACIÓN I",
+          "description": "Teoría de la Argumentación\nAnálisis de argumentos: identificación de premisas y\nconclusiones.\nLógica proposicional\n",
+          "drive": "https://drive.google.com/file/d/1HFufaLELVf1eOLmerbKonp8rFEgjQdx9/preview"
+        },
+        {
+          "title": "SEMANA 16: APRECIACIÓN ESTÉTICA ",
+          "description": "Apreciación crítica de las manifestaciones artístico –\nculturales.\nComprensión de los movimientos y géneros en el arte\ncontemporáneo.\nLos problemas en la valoración estética\nRelaciones entre arte, cultura, sociedad y estética.\n",
+          "drive": "https://drive.google.com/file/d/16cUERKFlzKAkY2jy8UVD0gFI5T7oAc5I/preview"
+        },
+        {
+          "title": "SEMANA 15: CIENCIA Y CONOCIMIENTO II",
+          "description": "Filosofía analítica: 1er Wittgenstein\nNeopositivismo: Círculo de Viena\nRacionalismo crítico: Karl Popper\nRelativismo epistemológico: Thomas Kuhn\n",
+          "drive": "https://drive.google.com/file/d/1-MOYtPSOQhd7EZiIGUhKS6qJy9sGL5An/preview"
+        },
+        {
+          "title": "SEMANA 14: CIENCIA Y CONOCIMIENTO I",
+          "description": "Características del conocimiento científico.\nMétodo científico: problemas e hipótesis.\nReflexión crítica a la ciencia y la tecnología\nRelación entre lenguaje, ciencia, verdad y política.\n",
+          "drive": "https://drive.google.com/file/d/1v_6ANNFcZ27TyS6a4osNIItOY2JgjevC/preview"
+        },
+        {
+          "title": "SEMANA 13: ÉTICA, SOCIEDAD Y DEMOCRACIA",
+          "description": "La naturaleza humana \nla construcción de la subjetividad\nRelación individuo y sociedad.\nProblemas éticos y dilemas morales. \nOrigen y naturaleza del poder y el Estado\nValores democráticos: tolerancia y pluralismo\n",
+          "drive": "https://drive.google.com/file/d/1poMUf4Wr93SQGI5TCJ9Ud6TUrF-see_f/preview"
+        },
+        {
+          "title": "SEMANA 12: APRECIACIÓN ESTÉTICA",
+          "description": "Apreciación crítica de las manifestaciones artístico – culturales.\nComprensión de los movimientos y géneros en el arte contemporáneo.\nLos problemas en la valoración estética.\nRelaciones entre arte, cultura, sociedad y estética.",
+          "drive": "https://drive.google.com/file/d/1J3-bW3z5Q8dDCZlD2iY9SYR4DdCjjgAI/preview"
+        },
+        {
+          "title": "SEMANA 11: TEORÍA DE LA ARGUMENTACIÓN II",
+          "description": "Identificación y reconocimiento de las falacias más notables.\nLa argumentación en la investigación científica.",
+          "drive": "https://drive.google.com/file/d/1hhVOYUpYAS2zk2goTOnDjNBSWYN_OrY6/preview"
+        },
+        {
+          "title": "SEMANA 10: TEORÍA DE LA ARGUMENTACIÓN I",
+          "description": "Teoría de la Argumentación\nAnálisis de argumentos: identificación de premisas y conclusiones.\n",
+          "drive": "https://drive.google.com/file/d/15xzTPueMUSELVRUNnd7Ln2WMXXaLK_BR/preview"
+        },
+        {
+          "title": "SEMANA 9: CIENCIA Y CONOCIMIENTO",
+          "description": "Características del conocimiento científico.\nMétodo científico: problemas e hipótesis.\nReflexión crítica a la ciencia y la tecnología\nRelación entre lenguaje, ciencia, verdad y política.",
+          "drive": "https://drive.google.com/file/d/1_8GrrXp-9tU3Rp3-FQA1FxEpycnsptuu/preview"
+        },
+        {
+          "title": "SEMANA 8:  ÉTICA, SOCIEDAD Y DEMOCRACIA II",
+          "description": "Origen y naturaleza del poder y el Estado.\nValores democráticos: tolerancia y pluralismo.",
+          "drive": "https://drive.google.com/file/d/15KsWIJONKcTXjTPZ5h1cmIEFmJisJRJ4/preview"
+        },
+        {
+          "title": "SEMANA 7: ÉTICA, SOCIEDAD Y DEMOCRACIA",
+          "description": "La naturaleza humana. \nla construcción de la subjetividad\nRelación individuo y sociedad.\nProblemas éticos y dilemas morales. ",
+          "drive": "https://drive.google.com/file/d/1gSEw94W5Bun47pZhbaFuI8cXgbT6Q2nO/preview"
+        },
+        {
+          "title": "SEMANA 6: FILOSOFÍA EN EL PERÚ",
+          "description": "Historia de la filosofía en el Perú: Neoescolástica, Ilustración, Romanticismo. \nPositivismo, Espiritualismo, Movimientos sociales.\nDebate en torno a la autenticidad del filosofar latinoamericano.",
+          "drive": "https://drive.google.com/file/d/1lPsULvdMcq9jIPImq5X6N8QtBVGn6g4H/preview"
+        },
+        {
+          "title": "SEMANA 5: HISTORIA DE LA FILOSOFÍA IV",
+          "description": "Filosofía analítica: 1er Wittgenstein.\nNeopositivismo: Círculo de Viena.\nRacionalismo crítico: Karl Poper.\nRelativismo epistemológico: Thomas Kuhn.",
+          "drive": "https://drive.google.com/file/d/1pWPYlSB326E864lYxP1AY-s_IlqcBVBa/preview"
+        },
+        {
+          "title": "SEMANA 4: HISTORIA DE LA FILOSOFÍA III",
+          "description": "Positivismo: Comte.\nMaterialismo: Marx.\nVoluntarismo: Nietzsche.\nExistencialismo: Heidegger.",
+          "drive": "https://drive.google.com/file/d/1nX4Y2iJgePRgroZZFVIvlkJgOueePqB1/preview"
+        },
+        {
+          "title": "SEMANA 3: HISTORIA DE LA FILOSOFÍA II",
+          "description": "Racionalismo: Descartes.\nEmpirismo: Locke y Hume.\nCriticismo: Kant.\nIdealismo: Hegel.",
+          "drive": "https://drive.google.com/file/d/1lg0L6HOGKAyFD9uRBDLDY1LoAiS2GVb1/preview"
+        },
+        {
+          "title": "SEMANA 2:  HISTORIA DE LA FILOSOFÍA ",
+          "description": "Periodo Cosmológico.\nPeriodo Antropológico: Protágoras y Sócrates.\nPeriodo Ontológico: Platón y Aristóteles.\nFilosofía medieval: Patrística y Escolástica.",
+          "drive": "https://drive.google.com/file/d/1S-qdRMSKmERXZ55aZt-v-IrnSjOy2Trg/preview"
+        },
+        {
+          "title": "SEMANA 1: NOCIONES BÁSICAS",
+          "description": "Características de la filosofía.\nNociones de filosofía.",
+          "drive": "https://drive.google.com/file/d/1Uwzd_mitVSYosjIIgx1hKkTAY9WdKq2m/preview"
+        }
+      ]
+    },
+    {
+      "name": "Psicología",
+      "classes": [
+        {
+          "title": "SEMANA 18: ENFOQUES PSICOLÓGICOS",
+          "description": "Escuelas tradicionales: Estructuralismo, Gestalt, Conductismo y Psicoanálisis (describir los enfoques brevemente)\nEnfoques contemporáneos: Humanista, Cognitivista y Biopsicológico.\n",
+          "drive": "https://drive.google.com/file/d/1U7LAYehItRg5eUBBk_DlVLAhdjgHVoRd/preview"
+        },
+        {
+          "title": "SEMANA 17: DESARROLLO HUMANO II",
+          "description": "Adolescencia: características generales (proyecto de vida y orientación vocacional). Definiciones: identidad (James Marcia), amistad, enamoramiento, influencia de pares. Factores y Conductas de riesgo.\nSexualidad adolescente: dimensiones.\n",
+          "drive": "https://drive.google.com/file/d/1laBdHEAAGthlOLv2qXbeQj1WVIaUKDSL/preview"
+        },
+        {
+          "title": "SEMANA 16: DESARROLLO HUMANO I",
+          "description": "Desarrollo Humano: definición. Factores del Desarrollo (Pre-Natal)\nInfancia, niñez temprana e intermedia (características generales y mencionar a Erikson y el desarrollo del apego)\n",
+          "drive": "https://drive.google.com/file/d/1RCcMxWdJWAeAwRSoaMUOojdKWfLS0xHp/preview"
+        },
+        {
+          "title": "SEMANA 15: CONDICIONAMIENTO CLÁSICO Y OPERANTE",
+          "description": "Condicionamiento Clásico: Definición y experimento\nCondicionamiento Operante: Definición, modalidades y extinción. Programas de reforzamiento\n",
+          "drive": "https://drive.google.com/file/d/1JYKEZggm28dyXGREN4o8rmsIa3Fl5v5_/preview"
+        },
+        {
+          "title": "SEMANA 14: APRENDIZAJE COGNOSCITIVO",
+          "description": "Aprendizaje cognoscitivo: Definición \nAprendizaje significativo (Ausubel) y Aprendizaje por descubrimiento (Bruner)\nEstrategias de aprendizaje - Metacognición\n",
+          "drive": "https://drive.google.com/file/d/15t8-fWvQkF_YHHaB4xOmUuhBGLtV9XJw/preview"
+        },
+        {
+          "title": "SEMANA 13: AFECTIVIDAD Y MOTIVACIÓN",
+          "description": "Afectividad: definición y manifestaciones (solo definiciones)\nEstilos de comunicación e Inteligencia emocional. Autoconocimiento, autoestima y autoconcepto\nMotivación: definición, tipos (intrínseca y extrínseca) y Jerarquía de Necesidades de Maslow.\n",
+          "drive": "https://drive.google.com/file/d/1L_Meexe8cojyXrdywa1YCRgtIOebScAs/preview"
+        },
+        {
+          "title": "SEMANA 12: ENFOQUES PSICOLÓGICOS",
+          "description": "Escuelas tradicionales: Estructuralismo, Funcionalismo, Gestalt, Conductismo (incluir a Skinner) y Psicoanálisis\nEnfoques contemporáneos: humanismo y cognitivismo\n\n",
+          "drive": "https://drive.google.com/file/d/1m8o8lRBFjcvhB5HwIkkNjWcgdCdp4M2q/preview"
+        },
+        {
+          "title": "SEMANA 11: PERSONALIDAD Y DESAJUSTES PSICOSOCIALES",
+          "description": "Personalidad: definición. Temperamento y Carácter. \nPsicoanálisis: definición (2º enfoque), mecanismos de defensa (represión, racionalización, proyección, sublimación)\nDesarrollo psicosexual de la personalidad",
+          "drive": "https://drive.google.com/file/d/1d3OTC2nguGH2AvpevP9my8QyPLleGN6E/preview"
+        },
+        {
+          "title": "SEMANA 10:  DESARROLLO HUMANO II",
+          "description": "- Etapas: infancia y niñez (características generales)\n- Adolescencia: (proyecto de vida, enamoramiento y orientación vocacional) Tomar en cuenta a Erikson (búsqueda de la identidad). Conductas de riesgo\n -Etapas: Adultez Temprana, Intermedia y Tardía (características generales)\n\n",
+          "drive": "https://drive.google.com/file/d/1eopR-kolLNRAEZTcAjXfinAPWenHRnea/preview"
+        },
+        {
+          "title": "SEMANA 9: DESARROLLO HUMANO I",
+          "description": "Definición de desarrollo humano.\nFactores del desarrollo humano (biológico, sociocultural y personal). Etapa Prenatal: Germinal, Embrionario, Fetal.\nConflictos del Desarrollo Psicosocial según Erik Erikson.",
+          "drive": "https://drive.google.com/file/d/1d0AvvxVnIoFLnnQ63OCrQVDngGIKsnlQ/preview"
+        },
+        {
+          "title": "SEMANA 8: TEORÍAS COGNITIVAS DE APRENDIZAJE",
+          "description": "-Teoría del aprendizaje por descubrimiento.\nTeoría de aprendizaje significativo.\n-Aprendizaje sociocultural de Lev Vygotsky; andamiaje y zonas de desarrollo\n-Metacognición estrategias y tipos de aprendizaje \n\n",
+          "drive": "https://drive.google.com/file/d/1Bx394zGganW1KgAxtQpMuaBaRwY6ivht/preview"
+        },
+        {
+          "title": "SEMANA 7: APRENDIZAJE",
+          "description": "CONDICIONAMIENTOS: cuadro comparativo entre clásico y operante.\nModalidades del condicionamiento clásico: demorado, simultáneo, retrógrado, de huella, temporal.\nTécnicas de modificación conductual: reforzamiento, castigo y extinción.",
+          "drive": "https://drive.google.com/file/d/1AWjbaxxflCke0VdzGXEVctZdXM7nv0p4/preview"
+        },
+        {
+          "title": "SEMANA 6: AFECTIVIDAD Y MOTIVACIÓN",
+          "description": "-Afectividad: definición y manifestaciones (solo definiciones y en sentimientos hablar de autoestima). Componentes de la inteligencia emocional. Teoría del amor de Sternberg.\n-Motivación: definición. Ciclo de la motivación, tipos de necesidades - biosociales y psicosociales (poder y logro). Jerarquía de necesidades de Maslow.",
+          "drive": "https://drive.google.com/file/d/1wdJuJS_8PrJF70-bTpbQ5uOafeRhhE__/preview"
+        },
+        {
+          "title": "SEMANA 5: PENSAMIENTO E INTELIGENCIA",
+          "description": "-Pensamiento: definición, formas, estrategias de solución de problemas tipos de pensamiento (divergente y convergente)\n-Desarrollo de la inteligencia (conceptos básicos)\n-Estadios: sensoriomotriz, preoperacional (sub. simbólico, sub. intuitivo), operatorio concreto y operatorio formal\n\n",
+          "drive": "https://drive.google.com/file/d/1Acc8inZDmWy1kPim29_1wrwZALgfoN7H/preview"
+        },
+        {
+          "title": "SEMANA 4: MEMORIA",
+          "description": "Procesos secuenciales.\nModelo de almacenamiento múltiple (nombrar a la memoria de trabajo en la actualización de contenidos).\nProcesos de control. Y tipos de memoria de largo plazo. Alteraciones de la memoria.",
+          "drive": "https://drive.google.com/file/d/1zXEGGQhbh9_-oXzany5jtzDNhVpEZ2Dj/preview"
+        },
+        {
+          "title": "SEMANA 3: PROCESOS COGNITIVOS",
+          "description": "Atención; definición y tipos.\nSensación; modalidades, umbrales.\nPercepción: definición, leyes (figura y fondo, holístico, cierre, semejanza, continuidad, proximidad) y alteraciones.",
+          "drive": "https://drive.google.com/file/d/1J-RWWgwejZ2S5oyP5el39r_XlzNCv4Bp/preview"
+        },
+        {
+          "title": "SEMANA 2:  BASES SOCIOCULTURALES",
+          "description": "-Socialización: Definición, agentes socializadores. \n-Tipos de Familia (nuclear, extensa, monoparental y fusionada), estilos de crianza. Funciones y Evolución de las relaciones familiares.\n-Actitudes y sus componentes. Prejuicios. Estereotipo. Discriminación. Habilidades sociales. Estilos de comunicación: agresivo, pasivo, asertivo.",
+          "drive": "https://drive.google.com/file/d/1Zj520kbcxzWtS2xpVhfW949zhEc5YP1T/preview"
+        },
+        {
+          "title": "SEMANA 1: PSICOLOGÍA Y BASES BIOLÓGICAS DEL PSIQUISMO",
+          "description": "Psicología: definición. Clasificación de los Procesos Psíquicos (mencionar ejemplos de procesos psíquicos).\nBases biológicas: La neurona y los neurotransmisores, Formación Reticular, sistema límbico, \nCorteza Cerebral. Área Prefrontal. Lóbulos y hemisferios. Áreas del Lenguaje. Giro cingulado.",
+          "drive": "https://drive.google.com/file/d/1LPu9EvUlH-1qxYLhtc06EafbJuBa4uUr/preview"
+        }
+      ]
+    },
+    {
+      "name": "Inglés",
+      "classes": [
+        {
+          "title": "SEMANA 18: POSSESSIVES ",
+          "description": "Possessive Nouns\nPossessive Adjective and Possessive Pronouns\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 17: NOUNS ",
+          "description": "Countable and Uncountable Nouns\nPlural Nouns\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 16: PRESENT PERFECT AND PAST",
+          "description": "Present Perfect vs Past Simple",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 15: PRESENT PERFECT",
+          "description": "Prepositions of Time: Since and For\nYet – already – just – ever - never\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 14: FUTURE SIMPLE",
+          "description": " Be going to - Will\nZero Conditional\n First conditional\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 13: MODAL VERBS",
+          "description": "Can – Could / May- Might\nShould\n Must\nHave to\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 12: COUNTABLE AND UNCOUNTABLE NOUNS                   ",
+          "description": "Countable nouns.\nUncountable nouns.\nQuantifiers + countable and uncountable nouns.\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 11: PRONOUNS II                     ",
+          "description": " Demonstrative adjectives and pronouns.\n Indefinite pronouns.",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 10: PRONOUNS I             ",
+          "description": " Personal pronouns: subject and object pronouns.\n Possessive adjectives.\n Possessive pronouns.\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 9: THE SIMPLE FUTURE TENSE                    ",
+          "description": " Will/shall future.\n Be going to.\n Present progressive with a future meaning.\n Simple present with a future meaning.",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 8: THE PRESENT PERFECT TENSE                     ",
+          "description": "Form of the present perfect tense\nUse of the present perfect tense\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 7: THE SIMPLE PAST TENSE                   ",
+          "description": "Spelling of regular past.\nIrregular verbs.\nUse of the simple past tense.",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 6: THE PRESENT PROGRESSIVE TENSE",
+          "description": "Form of the present progressive tense\nSpelling: how to add –ing to a verb\nUses of the present progressive tense\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 5: THE SIMPLE PRESENT TENSE",
+          "description": "Form of the simple present tense.\nUses of the simple present tense.\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 4: VERBS AND VERB TENSES     ",
+          "description": "What a verb is and what it does.\nVerb tenses: simple and progressive.\nStative and dynamic verbs.\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 3: THE COMPOUND SENTENCE",
+          "description": "Word order and co-ordinating conjunctions.\nJoining sentence patterns to make compound sentences.\nThe use of co-ordinating conjunctions.\n",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 2: THE SIMPLE SENTENCE",
+          "description": "Five simple sentence patterns.\nSentence patterns: definitions of key terms.",
+          "drive": ""
+        },
+        {
+          "title": "SEMANA 1: THE SENTENCE",
+          "description": "Definitions of key terms.\nBasic word order in an English sentence.\n",
+          "drive": ""
+        }
+      ]
+    }
+  ]
+}

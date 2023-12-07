@@ -1,0 +1,4 @@
+.next
+.vscode
+dist
+package-lock.json
