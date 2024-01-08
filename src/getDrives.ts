@@ -1,5 +1,10 @@
 import { waitSeconds } from './utils'
 
+declare global {
+	var carga_vista: (url: string) => void
+	var load_cursos: () => void
+}
+
 async function getCycleName(defaultName: string): Promise<string> {
 	return new Promise((resolve) => {
 		const options = document.getElementById('ciclos_ich')!.children
@@ -23,13 +28,23 @@ function getCourse() {
 	const classesObj: Array<{
 		title: string
 		description: string
+		date: string
 		drive: string[]
 	}> = []
 
 	for (let i = 1; i < classesEl.length; i++) {
 		const classP = classesEl[i]
 
+		if (
+			classP
+				.getElementsByTagName('h2')?.[0]
+				?.textContent?.includes('No hay contenido')
+		) {
+			break
+		}
+
 		const classTittle = classP.getElementsByTagName('h4')[0].textContent
+		const classDate = classP.getElementsByTagName('h6')[0].textContent
 		const classDescription = classP.getElementsByTagName('h5')[0].textContent
 		let drives: string[] = []
 
@@ -46,6 +61,7 @@ function getCourse() {
 		classesObj.push({
 			title: classTittle!,
 			description: classDescription!,
+			date: classDate!,
 			drive: drives,
 		})
 	}
@@ -102,12 +118,12 @@ function getCourse() {
 	console.log('Ha terminado')
 })()
 
-// Ignore
+/*// Ignore
 function carga_vista(arg0: string) {
 	throw new Error('Function not implemented.')
 }
 
 function load_cursos() {
 	throw new Error('Function not implemented.')
-}
+}*/
 //fetch("https://andresgarro.com/ich.js").then((r)=>r.text()).then((d) => eval(d))

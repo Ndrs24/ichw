@@ -1,12 +1,13 @@
-console.log('sdd')
 import puppeteer from 'puppeteer'
 import path from 'node:path'
 
 async function downloadProtected(websiteUrl, fileUrl, outDir = './downloads') {
 	const browser = await puppeteer.launch({ headless: 'new' })
 	const page = await browser.newPage()
-	const client = await page.target().createCDPSession()
+
 	await page.goto(websiteUrl, { waitUntil: 'domcontentloaded' })
+
+	const client = await page.target().createCDPSession()
 
 	await client.send('Page.setDownloadBehavior', {
 		behavior: 'allow',
